@@ -5,11 +5,11 @@ import Section from "../Section.astro"
 import { projects } from "@cv"
 ---
 
-<Section title="Proyectos">
+<Section title="Personal Projects">
   <ul>
     {
       projects.map(
-        ({ url, description, highlights, name, isActive, github }) => {
+        ({ url, description, highlights, name, isActive }) => {
           return (
             <li>
               <article>
@@ -19,15 +19,7 @@ import { projects } from "@cv"
                       {name}
                     </a>
                     {isActive && <span>•</span>}
-                    {github && (
-                      <a
-                        class="github-code-link"
-                        href={github}
-                        target="_blank"
-                        title={`Ver código fuente del proyecto ${name}`}
-                      >
-                        <GitHub />
-                      </a>
+                  
                     )}
                   </h3>
                   <p>{description}</p>

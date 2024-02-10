@@ -1,66 +1,82 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "name": "Ulises Alejandro Mora Quintana",
+    "label": "Full Stack Developer con más de 5 años de experiencia",
+    "image": "/yo.jpeg",
+    "email": "ulisesmora3@gmail.com",
+    "phone": "+52 5526715393",
+    "url": "",
+    "summary": "+5 years of experience working with TS/JS,react, Angular, NestJS, ASP NET, Django working with SOLID pattern designs and Clean Architectures like DDD the last two years, Experience working in microservices and lambda functions.  I work with react native and ionic for mobile apps. Experience  with the clouds like aws, azure, google cloud and terraform, in the end I like the leadership and understand the purpose the other departments in function of the product ",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "postalCode": "",
+      "city": "Mexico city",
       "countryCode": "ES",
-      "region": "España"
+      "region": "México"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "ulises-mora-437697139",
+        "url": "https://www.linkedin.com/in/ulises-mora-437697139/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "ulisesmora",
+        "url": "https://github.com/ulisesmora"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
+      "name": "Autocom (México remote)",
+      "position": "ASP NET Senior and Cloud Engineer",
       "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "startDate": "2023-07-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "\n\n● Migrate asp net core 2.2 code to asp net 7 \n\n● Dockerize applications to migrate to microservices ● Use Nodejs and Postgres ● Move projects to aws using Lambda, api gateway and ECS ● Experience with Design pattern ● Update performance in apps using caching and best practices"
+      ,
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
+      "name": "PartsBadger (USA - remote)",
+      "position": "Fullstack Developer ",
       "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "startDate": "2023-06-01",
+      "endDate": "2023-12-01",
+      "summary": "● Develop Backend in Django Rest using rabbitmq and celery to asynchronous tasking  ● Build an initial project with dockerize the frontend and the backend ● Working with clean architecture like DDD in frontend. ● Working the frontend web application with react - redux / rtk using the last react version with vite for better performance. ● Working with three js in react for 3d ",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "OmniDoc (México City )",
+      "position": "Fullstack Developer",
+      "startDate": "2022-05-01",
+      "endDate": "2023-05-01",
+      "summary": "Building microservices with nestJS and python ● Using ORM (typeorm in NestJS ) with Postgres and Graphql. ● Working with clean architecture like DDD ● Use CQRS for Microservices ● Experience with Design pattern ● Leading the frontend web application with react - redux and rtk and angular ● Building a lambda function with docker in aws. ● Testing with Cypress.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Bambú Mobile (México - Remote )",
+      "position": "Fullstack Developer",
+      "startDate": "2020-02-01",
+      "endDate": "2022-05-01",
+      "summary": "● Building APIs with NestJs, express, asp net core ,Django and spring ● Experience with Microservices for web application and mobile app applications. ● Working with Firebase (Hosting, Firestore, CloudMesagge etc). ● Using ORM for postgres, mariadb, mongodb, microsoft sql server and redis. ● Contributing to each project delivery phase in different roles ● use IONIC and React Native for build android and IOS apps. ● Use architecture patterns for some system applications ● Implementing Cl/CD in aws with TravisCI and Github actions with docker. ● Using aws, googly cloud , firebase. and heroku. ● Config server (Linux and Microsoft windows server) for web applications. ● Building many single web application with angular,react ,use Nexts and Angular universal with SSR ● (REST,SOAP, socket and Graphql). ● AWS with EC2, Route53, ElasticBeanstalk, S3, ● Load Balancer, RDS, etc",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Bblazar  (México City - my own project )",
+      "position": "Fullstack Developer",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "summary": "● I developed two Dapps aplication with solidity (smart contracts erc 20 and erc721) running in ethreum and the frontend develop in web3 with nextjs also 1 developed a mobile app in ANDROID for one dapp. ● I developed a Ecommerce site with angular universal and create an api with nestjs ● Experience working with react three to make sites in 3d. ● Experience working with unity and unreal to develop ar/vr experiences",
       "highlights": [
         "Started the company"
       ]
@@ -78,16 +94,14 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
+    "institution": "UNAM - FI",
+    "url": "https://unam.mx",
+    "area": "Computer Engineer",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
+    "startDate": "2015-01-01",
+    "endDate": "2019-09-01",
+    "score": "8.3",
+    "courses": null
   }],
   "awards": [{
     "title": "Award",
@@ -145,6 +159,21 @@
       ]
     },
     {
+      "name": "C#",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+
+    {
+      "name": "C++",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
       "name": "Node",
       "level": "Avanzado",
       "keywords": [
@@ -185,6 +214,153 @@
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
+    },
+    {
+      "name": "Angular",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": ".Net Asp Net ",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Django",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Postgres",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Ionic",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "React-Native",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Nestjs",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Terraform",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+
+    {
+      "name": "GC",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+
+    {
+      "name": "Azure",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+
+    {
+      "name": "Docker",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+
+    {
+      "name": "Unity",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+
+    {
+      "name": "Unreal",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Rabbitmq",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "GRPC",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Redis",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+
+    {
+      "name": "SQlServer",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+
+    {
+      "name": "Mongo DB",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
     }
   ],
   "languages": [
@@ -210,66 +386,38 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "ar/vr",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Many projects about ar/vr ",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
       ],
-      "url": "https://mars.codes"
+      "url": "https://ulises-mora-projects.vercel.app/"
     },
     {
-      "name": "AdventJS",
+      "name": "bblazar",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "My own page in progress ",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
         "JavaScript & TypeScript"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://bblazar.com"
     },
     {
-      "name": "Codember",
+      "name": "Adidas mundial mobile devices experience",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Adidas mundial Qatar Experience",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
       ],
-      "url": "https://codember.dev"
+      "url": "https://adidas-mundial.web.app/"
     },
     {
-      "name": "codi.link",
+      "name": "RL",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "Plataform RL ",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "10k visitas al mes"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://rayitodeluna.mx/"
     }
   ]
 }
