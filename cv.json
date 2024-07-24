@@ -3,6 +3,8 @@
     "name": "Ulises Alejandro MORA QUINTANA",
     "label": "Full Stack Developer, Cloud and Game Indie Developer",
     "image": "/yo.jpeg",
+    "bornPLace": "/born-place.png",
+    "visa": "/visa.png",
     "email": "ulisesmora3@gmail.com",
     "phone": "+34 526715393",
     "url": "",
@@ -31,7 +33,6 @@
     {
       "name": "GPT4SALES",
       "position": "Backend Lead & Architecture Engineer ",
-      "url": "https://autcom.mx",
       "startDate": "2024-01-01",
       "endDate": null,
       "summary": "We are seeking a skilled Architect Lead and Cloud expert to design and implement cloud-based solutions, focusing on a chatbot application using OpenAI. This role will utilize technologies including NestJS, microservices, Redis, GraphQL, and RabbitMQ. Provide architectural guidance and leadership to the development team."
@@ -41,7 +42,7 @@
       ]
     },
     {
-      "name": "Autocom (México remote)",
+      "name": "Autocom (Mexico remote)",
       "position": "ASP NET Senior and Cloud Engineer",
       "url": "https://autcom.mx",
       "startDate": "2023-07-01",

@@ -11,7 +11,7 @@ import Visa from "@/icons/visa.astro"
 import BornPlace from "@/icons/bornPlace.astro"
 import type { SocialIcon } from "@/types"
 
-const { name, label, image, location, profiles, phone, email } = basics
+const { name, label, image, location, profiles, phone, email, bornPLace, visa } = basics
 const { city, region, address, postalCode } = location
 
 const SOCIAL_ICONS: SocialIcon = {
@@ -36,11 +36,12 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
         {city}, {region}, {address} , c.p: {postalCode} 
       </span>
       <span>
-        <BornPlace />
+        <img  src={bornPLace} style={{width:"15px", height: "15px"}}  alt="bornplace">
         nationality Mexican, Born PLace: Mexico city 
       </span>
       <span>
-        <Visa />
+
+        <img  src={visa} style={{width:"15px", height: "15px"}} alt="visa">
         Open to Work in Europe in process to get residence visa in Spain 
       </span>
       <footer class="print">
