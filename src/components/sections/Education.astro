@@ -8,9 +8,9 @@ import { education } from "@cv"
   <ul>
     {
       education.map(({ institution, startDate, endDate, area }) => {
-        const startYear = new Date(startDate).getFullYear()
+        const startYear = new Date(startDate).toLocaleDateString()
         const endYear =
-          endDate != null ? new Date(endDate).getFullYear() : "Actual"
+          endDate != null ? new Date(endDate).toLocaleDateString() : "Actual"
         const years = `${startYear} - ${endYear}`
 
         return (

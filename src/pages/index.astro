@@ -10,15 +10,21 @@ import Skills from "@/components/sections/Skills.astro"
 import KeyboardManager from "@/components/KeyboardManager.astro"
 
 import { basics } from "@cv"
+import Certifications from "@/components/sections/Certifications.astro"
+import Language from "@/components/sections/Language.astro"
 const { name, label } = basics
 ---
 
 <Layout title={`Portafolio de ${name} - ${label}`}>
   <main>
     <Hero />
+    <!--
     <About />
+     -->
     <Experience />
     <Education />
+    <Certifications/>
+    <Language/>
     <Projects />
     <Skills />
   </main>

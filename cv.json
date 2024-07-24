@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Ulises Alejandro Mora Quintana",
+    "name": "Ulises Alejandro MORA QUINTANA",
     "label": "Full Stack Developer, Cloud and Game Indie Developer",
     "image": "/yo.jpeg",
     "email": "ulisesmora3@gmail.com",
-    "phone": "+52 5526715393",
+    "phone": "+34 526715393",
     "url": "",
     "summary": "+5 years of experience working with TS/JS,react, Angular, NestJS, ASP NET, Django working with SOLID pattern designs and Clean Architectures like DDD the last two years, Experience working in microservices and lambda functions.  I work with react native and ionic for mobile apps. Experience  with the clouds like aws, azure, google cloud and terraform, in the end I like the leadership and understand the purpose the other departments in function of the product ",
     "location": {
-      "address": "",
-      "postalCode": "",
+      "address": "Pintor rosales, Argüelles",
+      "postalCode": "28008",
       "city": "Madrid",
       "countryCode": "ES",
       "region": "España"
@@ -29,11 +29,23 @@
   },
   "work": [
     {
+      "name": "GPT4SALES",
+      "position": "Backend Lead & Architecture Engineer ",
+      "url": "https://autcom.mx",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "summary": "We are seeking a skilled Architect Lead and Cloud expert to design and implement cloud-based solutions, focusing on a chatbot application using OpenAI. This role will utilize technologies including NestJS, microservices, Redis, GraphQL, and RabbitMQ. Provide architectural guidance and leadership to the development team."
+      ,
+      "highlights": [
+        "We are seeking a skilled Architect Lead and Cloud expert to design and implement cloud-based solutions, focusing on a chatbot application using OpenAI. This role will utilize technologies including NestJS, microservices, Redis, GraphQL, and RabbitMQ. Key Responsibilities: Design and Implement Microservices: Develop and maintain a system of 4 microservices using NestJS. Ensure scalability, reliability, and performance of the microservices architecture. API Development: Create and manage APIs using GraphQL for efficient data exchange. Caching and Data Storage: Implement Redis for caching solutions to enhance application performance. Message Brokering: Integrate RabbitMQ for efficient message brokering and communication between services. Cloud Infrastructure: Design, deploy, and manage cloud infrastructure ensuring optimal performance and cost-efficiency. Lead and Mentor: Provide architectural guidance and leadership to the development team."
+      ]
+    },
+    {
       "name": "Autocom (México remote)",
       "position": "ASP NET Senior and Cloud Engineer",
-      "url": "https://twitch.tv/midudev",
+      "url": "https://autcom.mx",
       "startDate": "2023-07-01",
-      "endDate": null,
+      "endDate": "2024-08-15",
       "summary": "\n\n● Migrate asp net core 2.2 code to asp net 7 \n\n● Dockerize applications to migrate to microservices ● Use Nodejs and Postgres ● Move projects to aws using Lambda, api gateway and ECS ● Experience with Design pattern ● Update performance in apps using caching and best practices"
       ,
       "highlights": [
@@ -43,7 +55,7 @@
     {
       "name": "PartsBadger (USA - remote)",
       "position": "Fullstack Developer ",
-      "url": "https://twitch.tv/midudev",
+      "url": "https://parts-badger.com",
       "startDate": "2023-06-01",
       "endDate": "2023-12-01",
       "summary": "● Develop Backend in Django Rest using rabbitmq and celery to asynchronous tasking  ● Build an initial project with dockerize the frontend and the backend ● Working with clean architecture like DDD in frontend. ● Working the frontend web application with react - redux / rtk using the last react version with vite for better performance. ● Working with three js in react for 3d ",
@@ -64,6 +76,7 @@
     {
       "name": "Bambú Mobile (México - Remote )",
       "position": "Fullstack Developer",
+      "url": "https://bambu-mobile.com",
       "startDate": "2020-02-01",
       "endDate": "2022-05-01",
       "summary": "● Building APIs with NestJs, express, asp net core ,Django and spring ● Experience with Microservices for web application and mobile app applications. ● Working with Firebase (Hosting, Firestore, CloudMesagge etc). ● Using ORM for postgres, mariadb, mongodb, microsoft sql server and redis. ● Contributing to each project delivery phase in different roles ● use IONIC and React Native for build android and IOS apps. ● Use architecture patterns for some system applications ● Implementing Cl/CD in aws with TravisCI and Github actions with docker. ● Using aws, googly cloud , firebase. and heroku. ● Config server (Linux and Microsoft windows server) for web applications. ● Building many single web application with angular,react ,use Nexts and Angular universal with SSR ● (REST,SOAP, socket and Graphql). ● AWS with EC2, Route53, ElasticBeanstalk, S3, ● Load Balancer, RDS, etc",
@@ -74,6 +87,7 @@
     {
       "name": "Bblazar  (México City - my own project )",
       "position": "Fullstack Developer",
+      "url": "https://www.bblazar.com/",
       "startDate": "2020-01-01",
       "endDate": null,
       "summary": "● I developed two Dapps aplication with solidity (smart contracts erc 20 and erc721) running in ethreum and the frontend develop in web3 with nextjs also 1 developed a mobile app in ANDROID for one dapp. ● I developed a Ecommerce site with angular universal and create an api with nestjs ● Experience working with react three to make sites in 3d. ● Experience working with unity and unreal to develop ar/vr experiences",
@@ -96,7 +110,7 @@
   "education": [{
     "institution": "UNAM - FI",
     "url": "https://unam.mx",
-    "area": "Computer Engineer",
+    "area": "Computer Engineer - Environmental Systems Engineer with a Bachelor's degree (BSc.), UNAM, Mexico City",
     "studyType": "Bachelor",
     "startDate": "2015-01-01",
     "endDate": "2019-09-01",
