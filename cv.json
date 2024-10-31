@@ -1,16 +1,16 @@
 {
   "basics": {
     "name": "Ulises Alejandro MORA QUINTANA",
-    "label": "Full Stack Developer, Cloud and Game Indie Developer",
+    "label": "Desarrollador Full Stack / Cloud Engineer",
     "image": "/yo.jpeg",
     "bornPLace": "/born-place.png",
     "visa": "/visa.png",
     "email": "ulisesmora3@gmail.com",
-    "phone": "+34 526715393",
+    "phone": "+34 623936603",
     "url": "",
-    "summary": "+5 years of experience working with TS/JS,react, Angular, NestJS, ASP NET, Django working with SOLID pattern designs and Clean Architectures like DDD the last two years, Experience working in microservices and lambda functions.  I work with react native and ionic for mobile apps. Experience  with the clouds like aws, azure, google cloud and terraform, in the end I like the leadership and understand the purpose the other departments in function of the product ",
+    "summary": "+5 años de experiencia trabajando con TS/JS, React, Angular, NestJS, ASP NET, Django, utilizando patrones de diseño SOLID y arquitecturas limpias como DDD en los últimos dos años. Experiencia trabajando en microservicios y funciones Lambda. Trabajo con React Native e Ionic para aplicaciones móviles. Experiencia con nubes como AWS, Azure, Google Cloud y Terraform. Finalmente, me gusta el liderazgo y entender el propósito de los otros departamentos en función del producto.",
     "location": {
-      "address": "Pintor rosales, Argüelles",
+      "address": "Pintor Rosales, Argüelles",
       "postalCode": "28008",
       "city": "Madrid",
       "countryCode": "ES",
@@ -32,129 +32,137 @@
   "work": [
     {
       "name": "GPT4SALES",
-      "position": "Backend Lead & Architecture Engineer ",
+      "position": "Líder de Backend y Arquitecto de Software",
       "startDate": "2024-01-01",
       "endDate": null,
-      "summary": "We are seeking a skilled Architect Lead and Cloud expert to design and implement cloud-based solutions, focusing on a chatbot application using OpenAI. This role will utilize technologies including NestJS, microservices, Redis, GraphQL, and RabbitMQ. Provide architectural guidance and leadership to the development team."
-      ,
+      "summary": "Diseñar e implementar soluciones basadas en la nube, enfocándose en una aplicación de chatbot utilizando OpenAI. Proporcionar orientación arquitectónica y liderazgo al equipo de desarrollo utilizando: ● NestJS ● Microservicios ● Redis ● GraphQL ● RabbitMQ ● MongoDB ● Postgres",
       "highlights": [
-        "We are seeking a skilled Architect Lead and Cloud expert to design and implement cloud-based solutions, focusing on a chatbot application using OpenAI. This role will utilize technologies including NestJS, microservices, Redis, GraphQL, and RabbitMQ. Key Responsibilities: Design and Implement Microservices: Develop and maintain a system of 4 microservices using NestJS. Ensure scalability, reliability, and performance of the microservices architecture. API Development: Create and manage APIs using GraphQL for efficient data exchange. Caching and Data Storage: Implement Redis for caching solutions to enhance application performance. Message Brokering: Integrate RabbitMQ for efficient message brokering and communication between services. Cloud Infrastructure: Design, deploy, and manage cloud infrastructure ensuring optimal performance and cost-efficiency. Lead and Mentor: Provide architectural guidance and leadership to the development team."
+        "Buscamos un Arquitecto Líder y experto en la nube para diseñar e implementar soluciones basadas en la nube, enfocándose en una aplicación de chatbot utilizando OpenAI. Este rol utilizará tecnologías como NestJS, microservicios, Redis, GraphQL y RabbitMQ. Responsabilidades clave: Diseñar e Implementar Microservicios: Desarrollar y mantener un sistema de 4 microservicios utilizando NestJS. Asegurar la escalabilidad, confiabilidad y rendimiento de la arquitectura de microservicios. Desarrollo de API: Crear y gestionar APIs utilizando GraphQL para un intercambio de datos eficiente. Caché y Almacenamiento de Datos: Implementar Redis para soluciones de caché para mejorar el rendimiento de la aplicación. Mensajería: Integrar RabbitMQ para una mensajería eficiente y comunicación entre servicios. Infraestructura en la Nube: Diseñar, desplegar y gestionar la infraestructura en la nube asegurando un rendimiento óptimo y eficiencia de costos. Liderar y Mentorizar: Proporcionar orientación arquitectónica y liderazgo al equipo de desarrollo."
       ]
     },
     {
-      "name": "Autocom (Mexico remote)",
-      "position": "ASP NET Senior and Cloud Engineer",
+      "name": "Autocom (México remoto)",
+      "position": "Ingeniero Senior en ASP NET y Cloud",
       "url": "https://autcom.mx",
       "startDate": "2023-07-01",
       "endDate": "2024-08-15",
-      "summary": "\n\n● Migrate asp net core 2.2 code to asp net 7 \n\n● Dockerize applications to migrate to microservices ● Use Nodejs and Postgres ● Move projects to aws using Lambda, api gateway and ECS ● Experience with Design pattern ● Update performance in apps using caching and best practices"
-      ,
+      "summary": "● Migrar código de asp net core 2.2 a asp net 7 ● Dockerizar aplicaciones para migrar a microservicios ● Usar Nodejs y Postgres ● Mover proyectos a AWS usando Lambda, API Gateway y ECS ● Experiencia con patrones de diseño ● Actualizar el rendimiento en aplicaciones usando caché y mejores prácticas",
       "highlights": [
-        "Started the company"
+        "Empecé la empresa"
       ]
     },
     {
-      "name": "PartsBadger (USA - remote)",
-      "position": "Fullstack Developer ",
+      "name": "PartsBadger (USA - remoto)",
+      "position": "Desarrollador Fullstack",
       "url": "https://parts-badger.com",
       "startDate": "2023-06-01",
       "endDate": "2023-12-01",
-      "summary": "● Develop Backend in Django Rest using rabbitmq and celery to asynchronous tasking  ● Build an initial project with dockerize the frontend and the backend ● Working with clean architecture like DDD in frontend. ● Working the frontend web application with react - redux / rtk using the last react version with vite for better performance. ● Working with three js in react for 3d ",
+      "summary": "● Desarrollar Backend en Django Rest utilizando RabbitMQ y Celery para tareas asíncronas ● Construir un proyecto inicial con Dockerizando el frontend y el backend ● Trabajar con arquitectura limpia como DDD en el frontend ● Trabajar en la aplicación web frontend con React - Redux / RTK usando la última versión de React con Vite para mejor rendimiento ● Trabajar con Three.js en React para 3D",
       "highlights": [
-        "Started the company"
+        "Empecé la empresa"
       ]
     },
     {
-      "name": "OmniDoc (México City )",
-      "position": "Fullstack Developer",
+      "name": "OmniDoc (Ciudad de México)",
+      "position": "Desarrollador Fullstack",
       "startDate": "2022-05-01",
       "endDate": "2023-05-01",
-      "summary": "Building microservices with nestJS and python ● Using ORM (typeorm in NestJS ) with Postgres and Graphql. ● Working with clean architecture like DDD ● Use CQRS for Microservices ● Experience with Design pattern ● Leading the frontend web application with react - redux and rtk and angular ● Building a lambda function with docker in aws. ● Testing with Cypress.",
+      "summary": "Construcción de microservicios con NestJS y Python ● Uso de ORM (TypeORM en NestJS) con Postgres y GraphQL ● Trabajo con arquitectura limpia como DDD ● Uso de CQRS para Microservicios ● Experiencia con patrones de diseño ● Liderar la aplicación web frontend con React - Redux y RTK y Angular ● Construcción de una función Lambda con Docker en AWS ● Pruebas con Cypress.",
       "highlights": [
-        "Started the company"
+        "Empecé la empresa"
       ]
     },
     {
-      "name": "Bambú Mobile (México - Remote )",
-      "position": "Fullstack Developer",
+      "name": "Bambú Mobile (México - Remoto)",
+      "position": "Desarrollador Fullstack",
       "url": "https://bambu-mobile.com",
       "startDate": "2020-02-01",
       "endDate": "2022-05-01",
-      "summary": "● Building APIs with NestJs, express, asp net core ,Django and spring ● Experience with Microservices for web application and mobile app applications. ● Working with Firebase (Hosting, Firestore, CloudMesagge etc). ● Using ORM for postgres, mariadb, mongodb, microsoft sql server and redis. ● Contributing to each project delivery phase in different roles ● use IONIC and React Native for build android and IOS apps. ● Use architecture patterns for some system applications ● Implementing Cl/CD in aws with TravisCI and Github actions with docker. ● Using aws, googly cloud , firebase. and heroku. ● Config server (Linux and Microsoft windows server) for web applications. ● Building many single web application with angular,react ,use Nexts and Angular universal with SSR ● (REST,SOAP, socket and Graphql). ● AWS with EC2, Route53, ElasticBeanstalk, S3, ● Load Balancer, RDS, etc",
+      "summary": "● Construcción de APIs con NestJs, Express, ASP NET Core, Django y Spring ● Experiencia con Microservicios para aplicaciones web y móviles ● Trabajo con Firebase (Hosting, Firestore, Cloud Messaging, etc.) ● Uso de ORM para Postgres, MariaDB, MongoDB, Microsoft SQL Server y Redis ● Contribución en cada fase de entrega del proyecto en diferentes roles ● Uso de IONIC y React Native para construir aplicaciones Android e iOS ● Uso de patrones de arquitectura para algunas aplicaciones del sistema ● Implementación de CI/CD en AWS con TravisCI y Github Actions con Docker ● Uso de AWS, Google Cloud, Firebase y Heroku ● Configuración de servidores (Linux y Microsoft Windows Server) para aplicaciones web ● Construcción de muchas aplicaciones web únicas con Angular, React, Next.js y Angular Universal con SSR ● (REST, SOAP, socket y GraphQL) ● AWS con EC2, Route53, Elastic Beanstalk, S3 ● Balanceador de Carga, RDS, etc.",
       "highlights": [
-        "Started the company"
+        "Empecé la empresa"
       ]
     },
     {
-      "name": "Bblazar  (México City - my own project )",
-      "position": "Fullstack Developer",
+      "name": "Bblazar (Ciudad de México - proyecto propio)",
+      "position": "Desarrollador Fullstack",
       "url": "https://www.bblazar.com/",
       "startDate": "2020-01-01",
       "endDate": null,
-      "summary": "● I developed two Dapps aplication with solidity (smart contracts erc 20 and erc721) running in ethreum and the frontend develop in web3 with nextjs also 1 developed a mobile app in ANDROID for one dapp. ● I developed a Ecommerce site with angular universal and create an api with nestjs ● Experience working with react three to make sites in 3d. ● Experience working with unity and unreal to develop ar/vr experiences",
+      "summary": "● Desarrollé dos aplicaciones Dapps con Solidity (contratos inteligentes ERC 20 y ERC721) corriendo en Ethereum y el frontend desarrollado en Web3 con Next.js. También desarrollé una aplicación móvil en ANDROID para una Dapp. ● Desarrollé un sitio de comercio electrónico con Angular Universal y creé una API con NestJS ● Experiencia trabajando con React Three para hacer sitios en 3D ● Experiencia trabajando con Unity y Unreal para desarrollar experiencias AR/VR",
       "highlights": [
-        "Started the company"
+        "Empecé la empresa"
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "UNAM - FI",
-    "url": "https://unam.mx",
-    "area": "Computer Engineer - Environmental Systems Engineer with a Bachelor's degree (BSc.), UNAM, Mexico City",
-    "studyType": "Bachelor",
-    "startDate": "2015-01-01",
-    "endDate": "2019-09-01",
-    "score": "8.3",
-    "courses": null
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "volunteer": [
+    {
+      "organization": "Organización",
+      "position": "Voluntario",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Descripción…",
+      "highlights": [
+        "Premio 'Voluntario del Mes'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "UNAM - FI",
+      "url": "https://unam.mx",
+      "area": "Ingeniero en Computación - UNAM, Ciudad de México",
+      "studyType": "Licenciatura",
+      "startDate": "2015-01-01",
+      "endDate": "2019-09-01",
+      "score": "8.3",
+      "courses": null
+    }
+  ],
+  "awards": [
+    {
+      "title": "Premio",
+      "date": "2014-11-01",
+      "awarder": "Compañía",
+      "summary": "No hay cuchara."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificado",
+      "date": "2021-11-07",
+      "issuer": "Compañía",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publicación",
+      "publisher": "Compañía",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Descripción…"
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
+      "level": "Maestro",
       "keywords": [
         "Desarrollo Web", "Frontend"
       ]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "Maestro",
       "keywords": [
         "Desarrollo Web", "Frontend", "Diseño Responsive"
       ]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
+      "level": "Maestro",
       "keywords": [
         "Desarrollo Web", "Frontend", "Backend", "Fullstack"
       ]
@@ -170,22 +178,21 @@
       "name": "TypeScript",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        "Desarrollo Web", "Frontend", "Backend", "Superset de JavaScript"
       ]
     },
     {
       "name": "C#",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        "Desarrollo Web", "Backend", "Superset de JavaScript"
       ]
     },
-
     {
       "name": "C++",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        "Desarrollo Web", "Backend", "Superset de JavaScript"
       ]
     },
     {
@@ -220,190 +227,187 @@
       "name": "Next.js",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Desarrollo Web", "Frontend", "Framework de React", "SSR", "Generación Estática"
       ]
     },
     {
       "name": "React",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo Web", "Frontend", "Biblioteca de JavaScript", "UI"
       ]
     },
     {
       "name": "Angular",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo Web", "Frontend", "Biblioteca de JavaScript", "UI"
       ]
     },
     {
-      "name": ".Net Asp Net ",
+      "name": ".Net Asp Net",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo Web", "Backend", "Framework de Microsoft"
       ]
     },
     {
       "name": "Python",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo Web", "Backend", "Lenguaje de Programación"
       ]
     },
     {
       "name": "Django",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo Web", "Framework de Python"
       ]
     },
     {
       "name": "Postgres",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Bases de Datos", "SQL", "Backend"
       ]
     },
     {
       "name": "Ionic",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo Móvil", "Frontend", "Framework"
       ]
     },
     {
       "name": "React-Native",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo Móvil", "Frontend", "Framework"
       ]
     },
     {
       "name": "Nestjs",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo Backend", "Framework de JavaScript"
       ]
     },
     {
       "name": "AWS",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Cloud", "Infraestructura"
       ]
     },
     {
       "name": "Terraform",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Infraestructura como Código", "Cloud"
       ]
     },
-
     {
       "name": "GC",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Cloud", "Infraestructura"
       ]
     },
-
     {
       "name": "Azure",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Cloud", "Infraestructura"
       ]
     },
-
     {
       "name": "Docker",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Contenedores", "Desarrollo"
       ]
     },
-
     {
       "name": "Unity",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo de Juegos", "AR/VR"
       ]
     },
-
     {
       "name": "Unreal",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo de Juegos", "AR/VR"
       ]
     },
     {
       "name": "Rabbitmq",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Mensajería", "Microservicios"
       ]
     },
     {
       "name": "GRPC",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Comunicación de Servicios", "Protocolos"
       ]
     },
     {
       "name": "Redis",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Caché", "Base de Datos"
       ]
     },
-
     {
-      "name": "SQlServer",
+      "name": "SQLServer",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Bases de Datos", "SQL"
       ]
     },
-
     {
       "name": "Mongo DB",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Bases de Datos", "NoSQL"
       ]
     }
   ],
   "languages": [
     {
-      "language": "Spanish",
-      "fluency": "Native speaker"
+      "language": "Español",
+      "fluency": "Nativo"
     },
     {
-      "language": "English",
-      "fluency": "Advanced"
+      "language": "Inglés",
+      "fluency": "Avanzado"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+  "interests": [
+    {
+      "name": "Vida Silvestre",
+      "keywords": [
+        "Hurones",
+        "Unicornios"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Referencia…"
+    }
+  ],
   "projects": [
     {
       "name": "ar/vr",
       "isActive": true,
-      "description": "Many projects about ar/vr ",
+      "description": "Muchos proyectos sobre AR/VR",
       "highlights": [
       ],
       "url": "https://ulises-mora-projects.vercel.app/"
@@ -411,7 +415,7 @@
     {
       "name": "bblazar",
       "isActive": true,
-      "description": "My own page in progress ",
+      "description": "Mi propia página en progreso",
       "highlights": [
         "JavaScript & TypeScript"
       ],
@@ -420,7 +424,7 @@
     {
       "name": "Adidas mundial mobile devices experience",
       "isActive": true,
-      "description": "Adidas mundial Qatar Experience",
+      "description": "Experiencia Mundial Adidas Qatar",
       "highlights": [
       ],
       "url": "https://adidas-mundial.web.app/"
@@ -428,7 +432,7 @@
     {
       "name": "RL",
       "isActive": true,
-      "description": "Plataform RL ",
+      "description": "Plataforma RL",
       "highlights": [
         "10k visitas al mes"
       ],
