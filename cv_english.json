@@ -1,275 +1,181 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full-Stack developer with more than 15 years of experience & development content creator",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "name": "Ulises Alejandro MORA QUINTANA",
+    "label": "Desarrollador Full Stack, Desarrollador en la Nube y Desarrollador Indie de Juegos",
+    "image": "/yo.jpeg",
+    "bornPLace": "/born-place.png",
+    "visa": "/visa.png",
+    "email": "ulisesmora3@gmail.com",
+    "phone": "+34 526715393",
+    "url": "",
+    "summary": "+5 años de experiencia trabajando con TS/JS, React, Angular, NestJS, ASP NET, Django trabajando con patrones de diseño SOLID y Arquitecturas Limpias como DDD en los últimos dos años. Experiencia trabajando en microservicios y funciones lambda. Trabajo con React Native e Ionic para aplicaciones móviles. Experiencia con nubes como AWS, Azure, Google Cloud y Terraform. Al final, me gusta el liderazgo y entender el propósito de los otros departamentos en función del producto.",
     "location": {
-      "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "address": "Pintor rosales, Argüelles",
+      "postalCode": "28008",
+      "city": "Madrid",
       "countryCode": "ES",
-      "region": "Spain"
+      "region": "España"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "ulises-mora-437697139",
+        "url": "https://www.linkedin.com/in/ulises-mora-437697139/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "ulisesmora",
+        "url": "https://github.com/ulisesmora"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "GPT4SALES",
+      "position": "Líder de Backend e Ingeniero de Arquitectura",
+      "startDate": "2024-01-01",
       "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
+      "summary": "Diseñar e implementar soluciones basadas en la nube, centrándose en una aplicación de chatbot utilizando OpenAI. Proporcionar orientación arquitectónica y liderazgo al equipo de desarrollo usando: ● NestJS ● Microservicios ● Redis ● GraphQL ● RabbitMQ ● MongoDB ● Postgres",
       "highlights": [
-        "Started the company"
+        "Buscamos un Arquitecto Líder y experto en la nube para diseñar e implementar soluciones basadas en la nube, centrándonos en una aplicación de chatbot utilizando OpenAI. Este rol utilizará tecnologías como NestJS, microservicios, Redis, GraphQL y RabbitMQ. Responsabilidades clave: Diseñar e implementar microservicios: desarrollar y mantener un sistema de 4 microservicios utilizando NestJS. Asegurar la escalabilidad, fiabilidad y rendimiento de la arquitectura de microservicios. Desarrollo de API: crear y gestionar APIs utilizando GraphQL para un intercambio de datos eficiente. Almacenamiento en caché y almacenamiento de datos: implementar Redis para soluciones de caché que mejoren el rendimiento de la aplicación. Corretaje de mensajes: integrar RabbitMQ para una eficiente intermediación de mensajes y comunicación entre servicios. Infraestructura en la nube: diseñar, desplegar y gestionar la infraestructura en la nube asegurando un rendimiento óptimo y eficiencia de costos. Liderar y orientar: proporcionar orientación arquitectónica y liderazgo al equipo de desarrollo."
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
+      "name": "Autocom (México remoto)",
+      "position": "Ingeniero Senior de ASP NET y de la Nube",
+      "url": "https://autcom.mx",
+      "startDate": "2023-07-01",
+      "endDate": "2024-08-15",
+      "summary": "● Migrar código de asp net core 2.2 a asp net 7 ● Dockerizar aplicaciones para migrar a microservicios ● Usar Nodejs y Postgres ● Mover proyectos a AWS utilizando Lambda, API Gateway y ECS ● Experiencia con patrones de diseño ● Actualizar rendimiento en aplicaciones utilizando almacenamiento en caché y mejores prácticas",
       "highlights": [
-        "Started the company"
+        "Inicié la empresa"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
+      "name": "PartsBadger (EEUU - remoto)",
+      "position": "Desarrollador Fullstack",
+      "url": "https://parts-badger.com",
+      "startDate": "2023-06-01",
+      "endDate": "2023-12-01",
+      "summary": "● Desarrollar Backend en Django Rest utilizando RabbitMQ y Celery para tareas asincrónicas ● Construir un proyecto inicial con dockerización del frontend y backend ● Trabajar con arquitectura limpia como DDD en el frontend. ● Trabajar en la aplicación web frontend con React - Redux / RTK usando la última versión de React con Vite para un mejor rendimiento. ● Trabajar con Three.js en React para 3D",
       "highlights": [
-        "Started the company"
+        "Inicié la empresa"
+      ]
+    },
+    {
+      "name": "OmniDoc (Ciudad de México)",
+      "position": "Desarrollador Fullstack",
+      "startDate": "2022-05-01",
+      "endDate": "2023-05-01",
+      "summary": "Construcción de microservicios con NestJS y Python ● Uso de ORM (TypeORM en NestJS) con Postgres y GraphQL. ● Trabajo con arquitectura limpia como DDD ● Uso de CQRS para Microservicios ● Experiencia con patrones de diseño ● Liderando la aplicación web frontend con React - Redux y RTK y Angular ● Construcción de una función Lambda con Docker en AWS. ● Pruebas con Cypress.",
+      "highlights": [
+        "Inicié la empresa"
+      ]
+    },
+    {
+      "name": "Bambú Mobile (México - remoto)",
+      "position": "Desarrollador Fullstack",
+      "url": "https://bambu-mobile.com",
+      "startDate": "2020-02-01",
+      "endDate": "2022-05-01",
+      "summary": "● Construcción de APIs con NestJS, Express, ASP NET Core, Django y Spring ● Experiencia con microservicios para aplicaciones web y aplicaciones móviles. ● Trabajo con Firebase (Hosting, Firestore, Cloud Messaging, etc.). ● Uso de ORM para Postgres, MariaDB, MongoDB, Microsoft SQL Server y Redis. ● Contribución en cada fase de entrega de proyectos en diferentes roles ● Uso de IONIC y React Native para construir aplicaciones Android e IOS. ● Uso de patrones de arquitectura para algunas aplicaciones de sistemas ● Implementación de CI/CD en AWS con TravisCI y Github Actions con Docker. ● Uso de AWS, Google Cloud, Firebase y Heroku. ● Configuración de servidores (Linux y Microsoft Windows Server) para aplicaciones web. ● Construcción de muchas aplicaciones web de una sola página con Angular, React, uso de Next y Angular Universal con SSR ● (REST, SOAP, Socket y GraphQL). ● AWS con EC2, Route53, ElasticBeanstalk, S3, ● Load Balancer, RDS, etc",
+      "highlights": [
+        "Inicié la empresa"
+      ]
+    },
+    {
+      "name": "Bblazar (Ciudad de México - mi propio proyecto)",
+      "position": "Desarrollador Fullstack",
+      "url": "https://www.bblazar.com/",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "summary": "● Desarrollé dos aplicaciones Dapps con Solidity (contratos inteligentes ERC20 y ERC721) ejecutándose en Ethereum y el frontend desarrollado en Web3 con Next.js, también desarrollé una aplicación móvil en Android para una Dapp. ● Desarrollé un sitio de comercio electrónico con Angular Universal y creé una API con NestJS ● Experiencia trabajando con React Three para hacer sitios en 3D. ● Experiencia trabajando con Unity y Unreal para desarrollar experiencias AR/VR",
+      "highlights": [
+        "Inicié la empresa"
       ]
     }
   ],
   "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
+    "organization": "Organización",
+    "position": "Voluntario",
     "url": "https://organization.com/",
     "startDate": "2012-01-01",
     "endDate": "2013-01-01",
-    "summary": "Description…",
+    "summary": "Descripción...",
     "highlights": [
-      "Awarded 'Volunteer of the Month'"
+      "Premiado como 'Voluntario del Mes'"
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
+    "institution": "UNAM - FI",
+    "url": "https://unam.mx",
+    "area": "Ingeniero en Computación - Ingeniero en Sistemas Ambientales con título de licenciatura (BSc.), UNAM, Ciudad de México",
+    "studyType": "Licenciatura",
+    "startDate": "2015-01-01",
+    "endDate": "2019-09-01",
+    "score": "8.3",
+    "courses": null
   }],
   "awards": [{
-    "title": "Award",
+    "title": "Premio",
     "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
+    "awarder": "Compañía",
+    "summary": "No hay cuchara."
   }],
   "certificates": [{
-    "name": "Certificate",
+    "name": "Certificado",
     "date": "2021-11-07",
-    "issuer": "Company",
+    "issuer": "Compañía",
     "url": "https://certificate.com"
   }],
   "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
+    "name": "Publicación",
+    "publisher": "Compañía",
     "releaseDate": "2014-10-01",
     "url": "https://publication.com",
-    "summary": "Description…"
+    "summary": "Descripción de la publicación"
   }],
-  "skills": [
-    {
-      "name": "HTML",
-      "level": "Master",
-      "keywords": [
-        "Web development", "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Master",
-      "keywords": [
-        "Web development", "Frontend", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Master",
-      "keywords": [
-        "Web development", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Advanced",
-      "keywords": [
-        "Bases de Datos", "SQL", "Database", "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Advanced",
-      "keywords": [
-        "Version control", "Colaboración", "Source code"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Advanced",
-      "keywords": [
-        "Version control", "Collaboration", "Source code", "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Spanish",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Advanced"
-    }
-  ],
-  "interests": [{
-    "name": "Wildlife",
+  "skills": [{
+    "name": "Habilidad",
+    "level": "Principiante",
     "keywords": [
-      "Ferrets",
-      "Unicorns"
+      "SEO",
+      "SEM"
+    ]
+  }],
+  "languages": [{
+    "language": "Inglés",
+    "fluency": "Intermedio"
+  }],
+  "interests": [{
+    "name": "Interés",
+    "keywords": [
+      "Deportes",
+      "Música"
     ]
   }],
   "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
+    "name": "Referencia",
+    "reference": "Referencia..."
   }],
-  "projects": [
-    {
-      "name": "mars.codes",
-      "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
-      "highlights": [
-        "Choose your own adventure",
-        "In progress"
-      ],
-      "url": "https://mars.codes"
-    },
-    {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "JavaScript programming challenges for every day of December until Christmas",
-      "highlights": [
-        "+1 million visits",
-        "Multilanguage",
-        "JavaScript & TypeScript"
-      ],
-      "url": "https://advent.js/dev"
-    },
-    {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Interactive programming game with challenges and secrets",
-      "highlights": [
-        "+2000 active users",
-        "Challenges for any language"
-      ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground of HTML, CSS and JavaScript code for sharing",
-      "highlights": [
-        "100k monthly visit",
-        "Developed by the community"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "List of technical tests of companies to practice programming",
-      "highlights": [
-        "100% free",
-        "+500 community solutions"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
-      "highlights": [
-        "+15k tickets handed over",
-        "+50k live viewers"
-      ],
-      "url": "https://miduconf.com"
-    }
-  ]
+  "projects": [{
+    "name": "Nombre del Proyecto",
+    "description": "Descripción...",
+    "highlights": [
+      "Premiado como 'Mejor del Año'"
+    ],
+    "keywords": [
+      "Desarrollo",
+      "Diseño"
+    ],
+    "startDate": "2019-01-01",
+    "endDate": "2020-01-01",
+    "url": "https://project.com/",
+    "roles": [
+      "Desarrollador",
+      "Diseñador"
+    ],
+    "entity": "Compañía",
+    "type": "Aplicación"
+  }]
 }
