@@ -6,15 +6,15 @@
     "bornPLace": "/born-place.png",
     "visa": "/visa.png",
     "email": "ulisesmora3@gmail.com",
-    "phone": "+34 623936603",
+    "phone": "+52 5526715393",
     "url": "",
-    "summary": "+5 años de experiencia trabajando con TS/JS, React, Angular, NestJS, ASP NET, Django, utilizando patrones de diseño SOLID y arquitecturas limpias como DDD en los últimos dos años. Experiencia trabajando en microservicios y funciones Lambda. Trabajo con React Native e Ionic para aplicaciones móviles. Experiencia con nubes como AWS, Azure, Google Cloud y Terraform. Finalmente, me gusta el liderazgo y entender el propósito de los otros departamentos en función del producto.",
+    "summary": "Con más de cinco años de experiencia en desarrollo full stack y arquitectura en la nube, he trabajado con tecnologías como TypeScript, JavaScript, NestJS, React, Angular, ASP.NET y Django. En los últimos años, me he especializado en arquitecturas limpias como DDD y patrones SOLID, desarrollando soluciones de alto rendimiento en entornos de microservicios y funciones Lambda en la nube. En mis roles recientes, he liderado equipos para diseñar e implementar arquitecturas escalables y orientadas a microservicios, integrando tecnologías avanzadas como RabbitMQ para mensajería, Redis para caché, y GraphQL para intercambios de datos eficientes. Poseo experiencia en diversas plataformas de nube, incluyendo AWS, Azure y Google Cloud, así como en Terraform para infraestructura como código. A nivel de frontend, he trabajado en aplicaciones web y móviles con React Native e Ionic, desarrollando interfaces modernas y optimizadas. También tengo un sólido manejo en DevOps, configurando pipelines de CI/CD y orquestación en contenedores con Docker. Me motiva el liderazgo y el trabajo colaborativo entre equipos de diferentes áreas para lograr productos que cumplen con los objetivos del negocio y brindan valor al usuario final.",
     "location": {
-      "address": "Pintor Rosales, Argüelles",
-      "postalCode": "28008",
-      "city": "Madrid",
-      "countryCode": "ES",
-      "region": "España"
+      "address": "Polanco",
+      "postalCode": "02100",
+      "city": "Mexico city",
+      "countryCode": "MX",
+      "region": "México"
     },
     "profiles": [
       {
@@ -35,7 +35,7 @@
       "position": "Líder de Backend y Arquitecto de Software",
       "startDate": "2024-01-01",
       "endDate": null,
-      "summary": "Diseñar e implementar soluciones basadas en la nube, enfocándose en una aplicación de chatbot utilizando OpenAI. Proporcionar orientación arquitectónica y liderazgo al equipo de desarrollo utilizando: ● NestJS ● Microservicios ● Redis ● GraphQL ● RabbitMQ ● MongoDB ● Postgres",
+      "summary": "Diseñar e implementar soluciones basadas en la nube, enfocándose en una aplicación de chatbot utilizando OpenAI. Proporcionar orientación arquitectónica y liderazgo al equipo de desarrollo utilizando: ● LLM ● OPENAI API ● Langchain ● NestJS ● Microservicios ● Redis ● GraphQL ● RabbitMQ ● MongoDB ● Postgres",
       "highlights": [
         "Buscamos un Arquitecto Líder y experto en la nube para diseñar e implementar soluciones basadas en la nube, enfocándose en una aplicación de chatbot utilizando OpenAI. Este rol utilizará tecnologías como NestJS, microservicios, Redis, GraphQL y RabbitMQ. Responsabilidades clave: Diseñar e Implementar Microservicios: Desarrollar y mantener un sistema de 4 microservicios utilizando NestJS. Asegurar la escalabilidad, confiabilidad y rendimiento de la arquitectura de microservicios. Desarrollo de API: Crear y gestionar APIs utilizando GraphQL para un intercambio de datos eficiente. Caché y Almacenamiento de Datos: Implementar Redis para soluciones de caché para mejorar el rendimiento de la aplicación. Mensajería: Integrar RabbitMQ para una mensajería eficiente y comunicación entre servicios. Infraestructura en la Nube: Diseñar, desplegar y gestionar la infraestructura en la nube asegurando un rendimiento óptimo y eficiencia de costos. Liderar y Mentorizar: Proporcionar orientación arquitectónica y liderazgo al equipo de desarrollo."
       ]
@@ -45,8 +45,8 @@
       "position": "Ingeniero Senior en ASP NET y Cloud",
       "url": "https://autcom.mx",
       "startDate": "2023-07-01",
-      "endDate": "2024-08-15",
-      "summary": "● Migrar código de asp net core 2.2 a asp net 7 ● Dockerizar aplicaciones para migrar a microservicios ● Usar Nodejs y Postgres ● Mover proyectos a AWS usando Lambda, API Gateway y ECS ● Experiencia con patrones de diseño ● Actualizar el rendimiento en aplicaciones usando caché y mejores prácticas",
+      "endDate": null,
+      "summary": "● .net ● asp net core  ● Migrar código de asp net core 2.2 a asp net 7 ● Dockerizar aplicaciones para migrar a microservicios ● Usar Nodejs y Postgres ● Mover proyectos a AWS usando Lambda, API Gateway y ECS ● Experiencia con patrones de diseño ● Actualizar el rendimiento en aplicaciones usando caché y mejores prácticas",
       "highlights": [
         "Empecé la empresa"
       ]
