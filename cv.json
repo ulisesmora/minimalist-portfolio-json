@@ -8,7 +8,7 @@
     "email": "ulisesmora3@gmail.com",
     "phone": "+52 5526715393",
     "url": "",
-    "summary": "Con más de cinco años de experiencia en desarrollo full stack y arquitectura en la nube, he trabajado con tecnologías como TypeScript, JavaScript, NestJS, React, Angular, ASP.NET y Django. En los últimos años, me he especializado en arquitecturas limpias como DDD y patrones SOLID, desarrollando soluciones de alto rendimiento en entornos de microservicios y funciones Lambda en la nube. En mis roles recientes, he liderado equipos para diseñar e implementar arquitecturas escalables y orientadas a microservicios, integrando tecnologías avanzadas como RabbitMQ para mensajería, Redis para caché, y GraphQL para intercambios de datos eficientes. Poseo experiencia en diversas plataformas de nube, incluyendo AWS, Azure y Google Cloud, así como en Terraform para infraestructura como código. A nivel de frontend, he trabajado en aplicaciones web y móviles con React Native e Ionic, desarrollando interfaces modernas y optimizadas. También tengo un sólido manejo en DevOps, configurando pipelines de CI/CD y orquestación en contenedores con Docker. Me motiva el liderazgo y el trabajo colaborativo entre equipos de diferentes áreas para lograr productos que cumplen con los objetivos del negocio y brindan valor al usuario final.",
+   "summary": "With over five years of experience in full stack development and cloud architecture, I have worked with technologies such as TypeScript, JavaScript, NestJS, React, Angular, ASP.NET, and Django. In recent years, I have specialized in clean architectures like DDD and SOLID principles, developing high-performance solutions in microservices and Lambda cloud environments. In my recent roles, I have led teams in designing and implementing scalable, microservice-oriented architectures, integrating advanced technologies like RabbitMQ for messaging, Redis for caching, and GraphQL for efficient data exchanges. I have experience with various cloud platforms, including AWS, Azure, and Google Cloud, as well as Terraform for infrastructure as code. On the frontend, I have worked on both web and mobile applications with React Native and Ionic, developing modern and optimized interfaces. I also have solid experience in DevOps, setting up CI/CD pipelines and container orchestration with Docker. I am motivated by leadership and collaborative work across different departments to create products that meet business objectives and provide value to the end user.",
     "location": {
       "address": "Polanco",
       "postalCode": "02100",
@@ -30,71 +30,71 @@
     ]
   },
   "work": [
-    {
-      "name": "GPT4SALES",
-      "position": "Líder de Backend y Arquitecto de Software",
-      "startDate": "2024-01-01",
-      "endDate": null,
-      "summary": "Diseñar e implementar soluciones basadas en la nube, enfocándose en una aplicación de chatbot utilizando OpenAI. Proporcionar orientación arquitectónica y liderazgo al equipo de desarrollo utilizando: ● LLM ● OPENAI API ● Langchain ● NestJS ● Microservicios ● Redis ● GraphQL ● RabbitMQ ● MongoDB ● Postgres",
-      "highlights": [
-        "Buscamos un Arquitecto Líder y experto en la nube para diseñar e implementar soluciones basadas en la nube, enfocándose en una aplicación de chatbot utilizando OpenAI. Este rol utilizará tecnologías como NestJS, microservicios, Redis, GraphQL y RabbitMQ. Responsabilidades clave: Diseñar e Implementar Microservicios: Desarrollar y mantener un sistema de 4 microservicios utilizando NestJS. Asegurar la escalabilidad, confiabilidad y rendimiento de la arquitectura de microservicios. Desarrollo de API: Crear y gestionar APIs utilizando GraphQL para un intercambio de datos eficiente. Caché y Almacenamiento de Datos: Implementar Redis para soluciones de caché para mejorar el rendimiento de la aplicación. Mensajería: Integrar RabbitMQ para una mensajería eficiente y comunicación entre servicios. Infraestructura en la Nube: Diseñar, desplegar y gestionar la infraestructura en la nube asegurando un rendimiento óptimo y eficiencia de costos. Liderar y Mentorizar: Proporcionar orientación arquitectónica y liderazgo al equipo de desarrollo."
-      ]
-    },
-    {
-      "name": "Autocom (México remoto)",
-      "position": "Ingeniero Senior en ASP NET y Cloud",
-      "url": "https://autcom.mx",
-      "startDate": "2023-07-01",
-      "endDate": null,
-      "summary": "● .net ● asp net core  ● Migrar código de asp net core 2.2 a asp net 7 ● Dockerizar aplicaciones para migrar a microservicios ● Usar Nodejs y Postgres ● Mover proyectos a AWS usando Lambda, API Gateway y ECS ● Experiencia con patrones de diseño ● Actualizar el rendimiento en aplicaciones usando caché y mejores prácticas",
-      "highlights": [
-        "Empecé la empresa"
-      ]
-    },
-    {
-      "name": "PartsBadger (USA - remoto)",
-      "position": "Desarrollador Fullstack",
-      "url": "https://parts-badger.com",
-      "startDate": "2023-06-01",
-      "endDate": "2023-12-01",
-      "summary": "● Desarrollar Backend en Django Rest utilizando RabbitMQ y Celery para tareas asíncronas ● Construir un proyecto inicial con Dockerizando el frontend y el backend ● Trabajar con arquitectura limpia como DDD en el frontend ● Trabajar en la aplicación web frontend con React - Redux / RTK usando la última versión de React con Vite para mejor rendimiento ● Trabajar con Three.js en React para 3D",
-      "highlights": [
-        "Empecé la empresa"
-      ]
-    },
-    {
-      "name": "OmniDoc (Ciudad de México)",
-      "position": "Desarrollador Fullstack",
-      "startDate": "2022-05-01",
-      "endDate": "2023-05-01",
-      "summary": "Construcción de microservicios con NestJS y Python ● Uso de ORM (TypeORM en NestJS) con Postgres y GraphQL ● Trabajo con arquitectura limpia como DDD ● Uso de CQRS para Microservicios ● Experiencia con patrones de diseño ● Liderar la aplicación web frontend con React - Redux y RTK y Angular ● Construcción de una función Lambda con Docker en AWS ● Pruebas con Cypress.",
-      "highlights": [
-        "Empecé la empresa"
-      ]
-    },
-    {
-      "name": "Bambú Mobile (México - Remoto)",
-      "position": "Desarrollador Fullstack",
-      "url": "https://bambu-mobile.com",
-      "startDate": "2020-02-01",
-      "endDate": "2022-05-01",
-      "summary": "● Construcción de APIs con NestJs, Express, ASP NET Core, Django y Spring ● Experiencia con Microservicios para aplicaciones web y móviles ● Trabajo con Firebase (Hosting, Firestore, Cloud Messaging, etc.) ● Uso de ORM para Postgres, MariaDB, MongoDB, Microsoft SQL Server y Redis ● Contribución en cada fase de entrega del proyecto en diferentes roles ● Uso de IONIC y React Native para construir aplicaciones Android e iOS ● Uso de patrones de arquitectura para algunas aplicaciones del sistema ● Implementación de CI/CD en AWS con TravisCI y Github Actions con Docker ● Uso de AWS, Google Cloud, Firebase y Heroku ● Configuración de servidores (Linux y Microsoft Windows Server) para aplicaciones web ● Construcción de muchas aplicaciones web únicas con Angular, React, Next.js y Angular Universal con SSR ● (REST, SOAP, socket y GraphQL) ● AWS con EC2, Route53, Elastic Beanstalk, S3 ● Balanceador de Carga, RDS, etc.",
-      "highlights": [
-        "Empecé la empresa"
-      ]
-    },
-    {
-      "name": "Bblazar (Ciudad de México - proyecto propio)",
-      "position": "Desarrollador Fullstack",
-      "url": "https://www.bblazar.com/",
-      "startDate": "2020-01-01",
-      "endDate": null,
-      "summary": "● Desarrollé dos aplicaciones Dapps con Solidity (contratos inteligentes ERC 20 y ERC721) corriendo en Ethereum y el frontend desarrollado en Web3 con Next.js. También desarrollé una aplicación móvil en ANDROID para una Dapp. ● Desarrollé un sitio de comercio electrónico con Angular Universal y creé una API con NestJS ● Experiencia trabajando con React Three para hacer sitios en 3D ● Experiencia trabajando con Unity y Unreal para desarrollar experiencias AR/VR",
-      "highlights": [
-        "Empecé la empresa"
-      ]
-    }
-  ],
+  {
+    "name": "GPT4SALES",
+    "position": "Backend Leader and Software Architect",
+    "startDate": "2024-01-01",
+    "endDate": null,
+    "summary": "Design and implement cloud-based solutions focused on a chatbot application using OpenAI. Provide architectural guidance and leadership to the development team using: ● LLM ● OPENAI API ● Langchain ● NestJS ● Microservices ● Redis ● GraphQL ● RabbitMQ ● MongoDB ● Postgres",
+    "highlights": [
+      "Looking for a Lead Architect and cloud expert to design and implement cloud-based solutions, focusing on a chatbot application using OpenAI. This role will use technologies such as NestJS, microservices, Redis, GraphQL, and RabbitMQ. Key responsibilities: Design and Implement Microservices: Develop and maintain a system of 4 microservices using NestJS. Ensure the scalability, reliability, and performance of the microservices architecture. API Development: Create and manage APIs using GraphQL for efficient data exchange. Cache and Data Storage: Implement Redis for cache solutions to improve application performance. Messaging: Integrate RabbitMQ for efficient messaging and communication between services. Cloud Infrastructure: Design, deploy, and manage cloud infrastructure ensuring optimal performance and cost efficiency. Lead and Mentor: Provide architectural guidance and leadership to the development team."
+    ]
+  },
+  {
+    "name": "Autocom (Mexico - remote)",
+    "position": "Senior Engineer in ASP NET and Cloud",
+    "url": "https://autcom.mx",
+    "startDate": "2023-07-01",
+    "endDate": null,
+    "summary": "● .net ● asp net core ● Migrate code from asp net core 2.2 to asp net 7 ● Containerize applications to migrate to microservices ● Use Nodejs and Postgres ● Move projects to AWS using Lambda, API Gateway, and ECS ● Experience with design patterns ● Improve application performance using cache and best practices",
+    "highlights": [
+      "Started at the company"
+    ]
+  },
+  {
+    "name": "PartsBadger (USA - remote)",
+    "position": "Fullstack Developer",
+    "url": "https://parts-badger.com",
+    "startDate": "2023-06-01",
+    "endDate": "2023-12-01",
+    "summary": "● Backend development in Django Rest using RabbitMQ and Celery for asynchronous tasks ● Build an initial project by containerizing frontend and backend ● Work with clean architecture such as DDD on the frontend ● Work on the web application frontend with React - Redux / RTK using the latest version of React with Vite for better performance ● Work with Three.js in React for 3D",
+    "highlights": [
+      "Started at the company"
+    ]
+  },
+  {
+    "name": "OmniDoc (Mexico City)",
+    "position": "Fullstack Developer",
+    "startDate": "2022-05-01",
+    "endDate": "2023-05-01",
+    "summary": "Build microservices with NestJS and Python ● Use of ORM (TypeORM in NestJS) with Postgres and GraphQL ● Work with clean architecture like DDD ● Use CQRS for Microservices ● Experience with design patterns ● Lead the web application frontend with React - Redux and RTK and Angular ● Build a Lambda function with Docker in AWS ● Testing with Cypress.",
+    "highlights": [
+      "Started at the company"
+    ]
+  },
+  {
+    "name": "Bambú Mobile (Mexico - Remote)",
+    "position": "Fullstack Developer",
+    "url": "https://bambu-mobile.com",
+    "startDate": "2020-02-01",
+    "endDate": "2022-05-01",
+    "summary": "● Build APIs with NestJs, Express, ASP NET Core, Django, and Spring ● Experience with microservices for web and mobile applications ● Work with Firebase (Hosting, Firestore, Cloud Messaging, etc.) ● Use ORM for Postgres, MariaDB, MongoDB, Microsoft SQL Server, and Redis ● Contribute to every project delivery phase in different roles ● Use IONIC and React Native to build Android and iOS applications ● Use architecture patterns for some system applications ● CI/CD implementation in AWS with TravisCI and Github Actions with Docker ● Use AWS, Google Cloud, Firebase, and Heroku ● Server setup (Linux and Microsoft Windows Server) for web applications ● Build unique web applications with Angular, React, Next.js, and Angular Universal with SSR ● (REST, SOAP, socket, and GraphQL) ● AWS with EC2, Route53, Elastic Beanstalk, S3 ● Load Balancer, RDS, etc.",
+    "highlights": [
+      "Started at the company"
+    ]
+  },
+  {
+    "name": "Bblazar (Mexico City - personal project)",
+    "position": "Fullstack Developer",
+    "url": "https://www.bblazar.com/",
+    "startDate": "2020-01-01",
+    "endDate": null,
+    "summary": "● Developed two Dapps applications with Solidity (ERC 20 and ERC721 smart contracts) running on Ethereum and the frontend developed in Web3 with Next.js. Also developed a mobile application on ANDROID for a Dapp. ● Developed an e-commerce site with Angular Universal and created an API with NestJS ● Experience working with React Three for 3D sites ● Experience working with Unity and Unreal to develop AR/VR experiences",
+    "highlights": [
+      "Started at the company"
+    ]
+  }
+],
   "volunteer": [
     {
       "organization": "Organización",
