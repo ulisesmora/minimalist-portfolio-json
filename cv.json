@@ -7,6 +7,7 @@
     "visa": "/visa.png",
     "email": "ulisesmora3@gmail.com",
     "phone": "+52 5526715393",
+
     "url": "",
    "summary": "With over five years of experience in full stack development and cloud architecture, I have worked with technologies such as TypeScript, JavaScript, NestJS, React, Angular, ASP.NET, and Django. In recent years, I have specialized in clean architectures like DDD and SOLID principles, developing high-performance solutions in microservices and Lambda cloud environments. In my recent roles, I have led teams in designing and implementing scalable, microservice-oriented architectures, integrating advanced technologies like RabbitMQ for messaging, Redis for caching, and GraphQL for efficient data exchanges. I have experience with various cloud platforms, including AWS, Azure, and Google Cloud, as well as Terraform for infrastructure as code. On the frontend, I have worked on both web and mobile applications with React Native and Ionic, developing modern and optimized interfaces. I also have solid experience in DevOps, setting up CI/CD pipelines and container orchestration with Docker. I am motivated by leadership and collaborative work across different departments to create products that meet business objectives and provide value to the end user.",
     "location": {
