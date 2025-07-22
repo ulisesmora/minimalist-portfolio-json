@@ -1,21 +1,21 @@
 {
   "basics": {
     "name": "Ulises Alejandro MORA QUINTANA",
-    "label": "Desarrollador Full Stack / Cloud Engineer",
+    "label": "Full Stack Developer / Cloud Engineer",
     "image": "/yo.jpeg",
     "bornPLace": "/born-place.png",
     "visa": "/visa.png",
     "email": "ulisesmora3@gmail.com",
-    "phone": "+52 5526715393",
+    "phone": "+34641782836",
 
     "url": "",
-   "summary": "With over five years of experience in full stack development and cloud architecture, I have worked with technologies such as TypeScript, JavaScript, NestJS, React, Angular, ASP.NET, and Django. In recent years, I have specialized in clean architectures like DDD and SOLID principles, developing high-performance solutions in microservices and Lambda cloud environments. In my recent roles, I have led teams in designing and implementing scalable, microservice-oriented architectures, integrating advanced technologies like RabbitMQ for messaging, Redis for caching, and GraphQL for efficient data exchanges. I have experience with various cloud platforms, including AWS, Azure, and Google Cloud, as well as Terraform for infrastructure as code. On the frontend, I have worked on both web and mobile applications with React Native and Ionic, developing modern and optimized interfaces. I also have solid experience in DevOps, setting up CI/CD pipelines and container orchestration with Docker. I am motivated by leadership and collaborative work across different departments to create products that meet business objectives and provide value to the end user.",
+   "summary": "Full Stack Developer with over 5 years of experience delivering scalable and maintainable software solutions. I specialize in modern web and cloud architectures, with deep expertise in TypeScript, JavaScript, NestJS, React, Angular, ASP.NET, and Django. In recent years, I have focused on clean architecture patterns (DDD, SOLID), building microservice-based systems in serverless and containerized environments using AWS Lambda, Docker, and Terraform. I have led cross-functional teams in designing and implementing cloud-native applications with messaging systems (RabbitMQ), caching layers (Redis), and efficient APIs (GraphQL, REST). My experience spans major cloud platforms (AWS, Azure, GCP), both backend and frontend development (React Native, Ionic), and DevOps practices, including CI/CD pipelines and infrastructure automation. I’m passionate about technical leadership, cross-team collaboration, and building products that align business goals with high-quality user experiences.",
     "location": {
-      "address": "Polanco",
-      "postalCode": "02100",
-      "city": "Mexico city",
-      "countryCode": "MX",
-      "region": "México"
+      "address": "Madrid",
+      "postalCode": "28015",
+      "city": "Madrid",
+      "countryCode": "ES",
+      "region": "Madrid"
     },
     "profiles": [
       {
@@ -32,24 +32,36 @@
   },
   "work": [
   {
-    "name": "GPT4SALES",
-    "position": "Backend Leader and Software Architect",
-    "startDate": "2024-01-01",
-    "endDate": null,
-    "summary": "Design and implement cloud-based solutions focused on a chatbot application using OpenAI. Provide architectural guidance and leadership to the development team using: ● LLM ● OPENAI API ● Langchain ● NestJS ● Microservices ● Redis ● GraphQL ● RabbitMQ ● MongoDB ● Postgres",
+    "name": "Otra Cosa (Spain - Remote) Freelance",
+    "position": "Web Developer",
+    "url": "https://otracosa.es",
+    "startDate": "2025-03-01",
+    "endDate": "2025-06-30",
+    "summary": "● nextjs ● Develop static website. ",
     "highlights": [
-      "Looking for a Lead Architect and cloud expert to design and implement cloud-based solutions, focusing on a chatbot application using OpenAI. This role will use technologies such as NestJS, microservices, Redis, GraphQL, and RabbitMQ. Key responsibilities: Design and Implement Microservices: Develop and maintain a system of 4 microservices using NestJS. Ensure the scalability, reliability, and performance of the microservices architecture. API Development: Create and manage APIs using GraphQL for efficient data exchange. Cache and Data Storage: Implement Redis for cache solutions to improve application performance. Messaging: Integrate RabbitMQ for efficient messaging and communication between services. Cloud Infrastructure: Design, deploy, and manage cloud infrastructure ensuring optimal performance and cost efficiency. Lead and Mentor: Provide architectural guidance and leadership to the development team."
+      "Started at the company"
     ]
   },
+
   {
-    "name": "Autocom (Mexico - remote)",
+    "name": "Autocom (Mexico - Remote)",
     "position": "Senior Engineer in ASP NET and Cloud",
-    "url": "https://autcom.mx",
+    "url": "https://autocom.mx",
     "startDate": "2023-07-01",
-    "endDate": null,
+    "endDate": "2025-06-25",
     "summary": "● .net ● asp net core ● Migrate code from asp net core 2.2 to asp net 7 ● Containerize applications to migrate to microservices ● Use Nodejs and Postgres ● Move projects to AWS using Lambda, API Gateway, and ECS ● Experience with design patterns ● Improve application performance using cache and best practices",
     "highlights": [
       "Started at the company"
+    ]
+  },
+  {
+    "name": "GPT4SALES (Mexico, USA Remote)",
+    "position": "Backend Leader and Software Architect",
+    "startDate": "2024-01-01",
+    "endDate": "2024-12-01",
+    "summary": "Design and implement cloud-based solutions focused on a chatbot application using OpenAI. Provide architectural guidance and leadership to the development team using: ● LLM ● OPENAI API ● Langchain ● NestJS ● Microservices ● Redis ● GraphQL ● RabbitMQ ● MongoDB ● Postgres",
+    "highlights": [
+      "Looking for a Lead Architect and cloud expert to design and implement cloud-based solutions, focusing on a chatbot application using OpenAI. This role will use technologies such as NestJS, microservices, Redis, GraphQL, and RabbitMQ. Key responsibilities: Design and Implement Microservices: Develop and maintain a system of 4 microservices using NestJS. Ensure the scalability, reliability, and performance of the microservices architecture. API Development: Create and manage APIs using GraphQL for efficient data exchange. Cache and Data Storage: Implement Redis for cache solutions to improve application performance. Messaging: Integrate RabbitMQ for efficient messaging and communication between services. Cloud Infrastructure: Design, deploy, and manage cloud infrastructure ensuring optimal performance and cost efficiency. Lead and Mentor: Provide architectural guidance and leadership to the development team."
     ]
   },
   {
@@ -69,6 +81,17 @@
     "startDate": "2022-05-01",
     "endDate": "2023-05-01",
     "summary": "Build microservices with NestJS and Python ● Use of ORM (TypeORM in NestJS) with Postgres and GraphQL ● Work with clean architecture like DDD ● Use CQRS for Microservices ● Experience with design patterns ● Lead the web application frontend with React - Redux and RTK and Angular ● Build a Lambda function with Docker in AWS ● Testing with Cypress.",
+    "highlights": [
+      "Started at the company"
+    ]
+  },
+  {
+    "name": "Bblazar   freelance Projects)",
+    "position": "Fullstack Developer",
+    "url": "https://www.bblazar.com/",
+    "startDate": "2020-01-01",
+    "endDate": null,
+    "summary": "● Developed two Dapps applications with Solidity (ERC 20 and ERC721 smart contracts) running on Ethereum and the frontend developed in Web3 with Next.js. Also developed a mobile application on ANDROID for a Dapp. ● Developed an e-commerce site with Angular Universal and created an API with NestJS ● Experience working with React Three for 3D sites ● Experience working with Unity and Unreal to develop AR/VR experiences",
     "highlights": [
       "Started at the company"
     ]
