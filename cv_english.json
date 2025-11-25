@@ -8,13 +8,13 @@
     "email": "ulisesmora3@gmail.com",
     "phone": "+34 526715393",
     "url": "",
-    "summary": "+5 años de experiencia trabajando con TS/JS, React, Angular, NestJS, ASP NET, Django trabajando con patrones de diseño SOLID y Arquitecturas Limpias como DDD en los últimos dos años. Experiencia trabajando en microservicios y funciones lambda. Trabajo con React Native e Ionic para aplicaciones móviles. Experiencia con nubes como AWS, Azure, Google Cloud y Terraform. Al final, me gusta el liderazgo y entender el propósito de los otros departamentos en función del producto.",
+    "summary": "+5 years de experiencia trabajando con TS/JS, React, Angular, Nestjs/Express, ASP NET, Django trabajando con patrones de diseño SOLID y Arquitecturas Limpias como DDD en los últimos dos years. Experiencia trabajando en microservicios y funciones lambda. Trabajo con React Native e Ionic para aplicaciones móviles. Experiencia con nubes como AWS, Azure, Google Cloud y Terraform. Al final, me gusta el liderazgo y entender el propósito de los otros departamentos en función del producto.",
     "location": {
       "address": "Pintor rosales, Argüelles",
-      "postalCode": "28008",
-      "city": "Madrid",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "",
+      "city": "Playa del carmen",
+      "countryCode": "MX",
+      "region": "México"
     },
     "profiles": [
       {
@@ -35,9 +35,9 @@
       "position": "Líder de Backend e Ingeniero de Arquitectura",
       "startDate": "2024-01-01",
       "endDate": null,
-      "summary": "Diseñar e implementar soluciones basadas en la nube, centrándose en una aplicación de chatbot utilizando OpenAI. Proporcionar orientación arquitectónica y liderazgo al equipo de desarrollo usando: ● NestJS ● Microservicios ● Redis ● GraphQL ● RabbitMQ ● MongoDB ● Postgres",
+      "summary": "Diseñar e implementar soluciones basadas en la nube, centrándose en una aplicación de chatbot utilizando OpenAI. Proporcionar orientación arquitectónica y liderazgo al equipo de desarrollo usando: ● Nestjs/Express ● Microservicios ● Redis ● GraphQL ● RabbitMQ ● MongoDB ● Postgres",
       "highlights": [
-        "Buscamos un Arquitecto Líder y experto en la nube para diseñar e implementar soluciones basadas en la nube, centrándonos en una aplicación de chatbot utilizando OpenAI. Este rol utilizará tecnologías como NestJS, microservicios, Redis, GraphQL y RabbitMQ. Responsabilidades clave: Diseñar e implementar microservicios: desarrollar y mantener un sistema de 4 microservicios utilizando NestJS. Asegurar la escalabilidad, fiabilidad y rendimiento de la arquitectura de microservicios. Desarrollo de API: crear y gestionar APIs utilizando GraphQL para un intercambio de datos eficiente. Almacenamiento en caché y almacenamiento de datos: implementar Redis para soluciones de caché que mejoren el rendimiento de la aplicación. Corretaje de mensajes: integrar RabbitMQ para una eficiente intermediación de mensajes y comunicación entre servicios. Infraestructura en la nube: diseñar, desplegar y gestionar la infraestructura en la nube asegurando un rendimiento óptimo y eficiencia de costos. Liderar y orientar: proporcionar orientación arquitectónica y liderazgo al equipo de desarrollo."
+        "Buscamos un Arquitecto Líder y experto en la nube para diseñar e implementar soluciones basadas en la nube, centrándonos en una aplicación de chatbot utilizando OpenAI. Este rol utilizará tecnologías como Nestjs/Express, microservicios, Redis, GraphQL y RabbitMQ. Responsabilidades clave: Diseñar e implementar microservicios: desarrollar y mantener un sistema de 4 microservicios utilizando Nestjs/Express. Asegurar la escalabilidad, fiabilidad y rendimiento de la arquitectura de microservicios. Desarrollo de API: crear y gestionar APIs utilizando GraphQL para un intercambio de datos eficiente. Almacenamiento en caché y almacenamiento de datos: implementar Redis para soluciones de caché que mejoren el rendimiento de la aplicación. Corretaje de mensajes: integrar RabbitMQ para una eficiente intermediación de mensajes y comunicación entre servicios. Infraestructura en la nube: diseñar, desplegar y gestionar la infraestructura en la nube asegurando un rendimiento óptimo y eficiencia de costos. Liderar y orientar: proporcionar orientación arquitectónica y liderazgo al equipo de desarrollo."
       ]
     },
     {
@@ -67,7 +67,7 @@
       "position": "Desarrollador Fullstack",
       "startDate": "2022-05-01",
       "endDate": "2023-05-01",
-      "summary": "Construcción de microservicios con NestJS y Python ● Uso de ORM (TypeORM en NestJS) con Postgres y GraphQL. ● Trabajo con arquitectura limpia como DDD ● Uso de CQRS para Microservicios ● Experiencia con patrones de diseño ● Liderando la aplicación web frontend con React - Redux y RTK y Angular ● Construcción de una función Lambda con Docker en AWS. ● Pruebas con Cypress.",
+      "summary": "Construcción de microservicios con Nestjs/Express y Python ● Uso de ORM (TypeORM en Nestjs/Express) con Postgres y GraphQL. ● Trabajo con arquitectura limpia como DDD ● Uso de CQRS para Microservicios ● Experiencia con patrones de diseño ● Liderando la aplicación web frontend con React - Redux y RTK y Angular ● Construcción de una función Lambda con Docker en AWS. ● Pruebas con Cypress.",
       "highlights": [
         "Inicié la empresa"
       ]
@@ -78,7 +78,7 @@
       "url": "https://bambu-mobile.com",
       "startDate": "2020-02-01",
       "endDate": "2022-05-01",
-      "summary": "● Construcción de APIs con NestJS, Express, ASP NET Core, Django y Spring ● Experiencia con microservicios para aplicaciones web y aplicaciones móviles. ● Trabajo con Firebase (Hosting, Firestore, Cloud Messaging, etc.). ● Uso de ORM para Postgres, MariaDB, MongoDB, Microsoft SQL Server y Redis. ● Contribución en cada fase de entrega de proyectos en diferentes roles ● Uso de IONIC y React Native para construir aplicaciones Android e IOS. ● Uso de patrones de arquitectura para algunas aplicaciones de sistemas ● Implementación de CI/CD en AWS con TravisCI y Github Actions con Docker. ● Uso de AWS, Google Cloud, Firebase y Heroku. ● Configuración de servidores (Linux y Microsoft Windows Server) para aplicaciones web. ● Construcción de muchas aplicaciones web de una sola página con Angular, React, uso de Next y Angular Universal con SSR ● (REST, SOAP, Socket y GraphQL). ● AWS con EC2, Route53, ElasticBeanstalk, S3, ● Load Balancer, RDS, etc",
+      "summary": "● Construcción de APIs con Nestjs/Express, Express, ASP NET Core, Django y Spring ● Experiencia con microservicios para aplicaciones web y aplicaciones móviles. ● Trabajo con Firebase (Hosting, Firestore, Cloud Messaging, etc.). ● Uso de ORM para Postgres, MariaDB, MongoDB, Microsoft SQL Server y Redis. ● Contribución en cada fase de entrega de proyectos en diferentes roles ● Uso de IONIC y React Native para construir aplicaciones Android e IOS. ● Uso de patrones de arquitectura para algunas aplicaciones de sistemas ● Implementación de CI/CD en AWS con TravisCI y Github Actions con Docker. ● Uso de AWS, Google Cloud, Firebase y Heroku. ● Configuración de servidores (Linux y Microsoft Windows Server) para aplicaciones web. ● Construcción de muchas aplicaciones web de una sola página con Angular, React, uso de Next y Angular Universal con SSR ● (REST, SOAP, Socket y GraphQL). ● AWS con EC2, Route53, ElasticBeanstalk, S3, ● Load Balancer, RDS, etc",
       "highlights": [
         "Inicié la empresa"
       ]
@@ -89,7 +89,7 @@
       "url": "https://www.bblazar.com/",
       "startDate": "2020-01-01",
       "endDate": null,
-      "summary": "● Desarrollé dos aplicaciones Dapps con Solidity (contratos inteligentes ERC20 y ERC721) ejecutándose en Ethereum y el frontend desarrollado en Web3 con Next.js, también desarrollé una aplicación móvil en Android para una Dapp. ● Desarrollé un sitio de comercio electrónico con Angular Universal y creé una API con NestJS ● Experiencia trabajando con React Three para hacer sitios en 3D. ● Experiencia trabajando con Unity y Unreal para desarrollar experiencias AR/VR",
+      "summary": "● Desarrollé dos aplicaciones Dapps con Solidity (contratos inteligentes ERC20 y ERC721) ejecutándose en Ethereum y el frontend desarrollado en Web3 con Next.js, también desarrollé una aplicación móvil en Android para una Dapp. ● Desarrollé un sitio de comercio electrónico con Angular Universal y creé una API con Nestjs/Express ● Experiencia trabajando con React Three para hacer sitios en 3D. ● Experiencia trabajando con Unity y Unreal para desarrollar experiencias AR/VR",
       "highlights": [
         "Inicié la empresa"
       ]

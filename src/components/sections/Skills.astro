@@ -31,13 +31,19 @@ const SKILLS_ICONS: Record<string, any> = {
 <Section title="Skills">
   <ul>
     {
-      skills.map(({ name }) => {
+      // CAMBIO 1: Añade 'years' a la desestructuración
+      skills.map(({ name, years }) => {
         const iconName = name === "Next.js" ? "Next" : name
         const Icon = SKILLS_ICONS[iconName]
 
         return (
           <li>
-            {Icon && <Icon />} <span>{name}</span>
+            {Icon && <Icon />}
+            {/* CAMBIO 2: Añade {years} dentro del span */}
+            <span>
+              {name}
+              {years && ` (${years})`}
+            </span>
           </li>
         )
       })
