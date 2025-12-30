@@ -8,11 +8,11 @@
     "email": "ulisesmora3@gmail.com",
     "phone": "+34641782836 phone call/whatsapp",
     "url": "",
-    "summary": "Senior Full Stack Developer (+5 years) & Cloud Architect with a versatile mastery of the TypeScript ecosystem (NestJS, Next.js, React, Angular) alongside Enterprise .NET & Python. I specialize in building scalable architectures that integrate AI/LLM pipelines and Web3/Blockchain technologies. Uniquely positioning myself at the intersection of tech and business, I leverage my specialized training in Cybersecurity and Entrepreneurship to deliver 'Secure by Design' solutions that drive tangible business value. Proven track record navigating diverse dynamics, from agile startups to corporate enterprise environments, and experience working in it consulting companies.",
+    "summary": "Senior Full Stack Architect (+5 years) specializing in designing high-availability distributed systems. Expert in decoupling monoliths into scalable microservices by strictly applying Hexagonal Architecture, DDD, and SOLID principles. \n\nFrontend Authority: I elevate engineering standards in Angular (Security with Guards/Interceptors, NgRx) and React (Composition Patterns, Performance Tuning, Redux/Zustand), prioritizing rendering optimization. \n\nBackend & Data Performance: I architect polyglot solutions in NestJS, .NET, and Django, resolving bottlenecks through advanced strategies such as Caching (Redis), Connection Pooling, and CQRS. I implement real-time communication with Sockets and SQL/NoSQL databases. \n\nCloud & Innovation: Deployment of immutable infrastructure (Docker) on AWS (ECS, EKS) and Azure. Pioneer in integrating AI/LLM capabilities with LangChain into business workflows. I guarantee total quality with Advanced Testing suites (Cypress, Jest, xUnit).",
     "location": {
       "address": "España",
       "postalCode": "28015",
-      "city": "Madrid",
+      "city": "Active Work Permit in Spain (TIE) Madrid",
       "countryCode": "ES",
       "region": "España"
     },
@@ -28,27 +28,28 @@
       }
     ]
   },
-  "work":[
-     {
-    "name": "Otra Cosa (Spain - Remote) Freelance",
-    "position": "Web Developer",
-    "url": "https://otracosa.es",
-    "startDate": "2025-05-01",
-    "endDate": null,
-    "summary": "● nextjs ● Develop and maintain website. ",
-    "highlights": [
-      "Started at the company"
-    ]
-  },
+  "work": [
+    {
+      "name": "Otra Cosa (Spain - Remote)",
+      "position": "Senior Web Developer (Next.js & React)",
+      "url": "https://otracosa.es",
+      "startDate": "2025-05-01",
+      "endDate": null,
+      "summary": "● I lead the full development lifecycle of the corporate web platform using the Next.js (React) and Node.js ecosystem. ● Implementation of modern architecture based on reusable components and Server Side Rendering (SSR) to maximize performance and SEO. ● Intensive use of TypeScript to ensure robust, scalable, and bug-free code. ● Configuration of automated deployment pipelines (CI/CD) and optimization of Core Web Vitals. ● Stack: Next.js, React, TypeScript, Node.js, Tailwind CSS.",
+      "highlights": [
+        "Implementation of scalable architecture in Next.js/React.",
+        "Performance optimization and CI/CD workflows."
+      ]
+    },
     {
       "name": "Autocom (Mexico - Remote)",
       "position": "Senior Software Engineer (.NET & Cloud)",
       "url": "https://autocom.mx",
       "startDate": "2023-06-01",
       "endDate": "2025-07-01",
-      "summary": "● Architected high-availability backend solutions using ASP.NET Core, serving as the backbone for critical transactional systems. ● Implemented AWS API Gateway to manage traffic and secured endpoints for microservices deployed on AWS Fargate (ECS) using Docker containers. ● Established asynchronous communication layers using AWS SQS and SNS to decouple services and ensure data reliability. ● Integrated Python scripts and Lambdas to automate cloud infrastructure and process background data, reducing operational manual loads by 40%. ● Developed and maintained internal dashboard frontends using React and Angular. ● Orchestrated a polyglot persistence layer (SQL Server, MongoDB, Redis) and established CI/CD pipelines.",
+      "summary": "● Architected high-availability backend solutions using ASP.NET Core, serving as the backbone for critical transactional systems. ● Implemented AWS API Gateway to manage traffic and secure microservices endpoints deployed on AWS Fargate (ECS) via Docker containers. ● Established asynchronous communication layers using AWS SQS and SNS to decouple services and ensure data reliability. ● Integrated Python scripts and Lambdas to automate cloud infrastructure and process background data, reducing manual operational load by 40%. ● Developed and maintained internal dashboards using React and Angular. ● Orchestrated a polyglot persistence layer (SQL Server, MongoDB, Redis) and established CI/CD pipelines.",
       "highlights": [
-        "Modernized backend with ECS Fargate/Docker and introduced Python automations for cloud efficiency."
+        "Backend modernization with ECS Fargate/Docker and introduction of Python automations for cloud efficiency."
       ]
     },
     {
@@ -56,9 +57,9 @@
       "position": "Backend Lead & Architect (NestJS & AI)",
       "startDate": "2024-01-01",
       "endDate": "2024-11-01",
-      "summary": "● Designed a scalable microservices architecture implementing Apollo Federation 2 with NestJS and GraphQL as the unified API Gateway. ● Engineered a **multi-layered LLM pipeline** using Python (LangChain) that processes user inputs through distinct stages: **initial intent detection**, context filtering, and routing to specialized flows, optimizing accuracy and token usage. ● Integrated the Meta API (WhatsApp Business) to orchestrate omnichannel chatbots. ● Implemented Stripe for subscription management. ● Orchestrated infrastructure with Terraform/Docker on AWS ECS Fargate/S3. ● Integrated RabbitMQ for event-driven communication and Redis for caching. ● CSS, SASS, SCSS, MATERIAL UI, NEXTJS, MATERIAL UI",
+      "summary": "● Designed a scalable microservices architecture implementing Apollo Federation 2 with NestJS and GraphQL as a unified API Gateway. ● Engineered a multi-layer LLM pipeline using Python (LangChain) that processes user inputs through distinct stages: initial intent detection, context filtering, and routing to specialized flows, optimizing accuracy and token usage. ● Integrated the Meta API (WhatsApp Business) to orchestrate omnichannel chatbots. ● Implemented Stripe for subscription management. ● Orchestrated infrastructure with Terraform and Docker on AWS ECS Fargate/S3. ● Integrated RabbitMQ for event-driven communication and Redis for caching. ● Stack: CSS, SASS, SCSS, MATERIAL UI, NEXTJS.",
       "highlights": [
-        "Architected a multi-stage LLM ecosystem with NestJS/GraphQL that intelligently filters intents for complex AI workflows."
+        "Architecture of a multi-layer LLM ecosystem with NestJS/GraphQL that intelligently filters intents for complex AI flows."
       ]
     },
     {
@@ -67,9 +68,9 @@
       "url": "https://parts-badger.com",
       "startDate": "2023-05-01",
       "endDate": "2023-12-01",
-      "summary": "● Engineered the core application logic using Django (Python), focusing on ORM performance tuning and reduction of N+1 query issues. ● Developed a highly interactive frontend with React and Angular, adhering to Domain-Driven Design (DDD) principles. ● Offloaded heavy backend processes to asynchronous queues using Celery and Redis. ● Implemented interactive 3D model visualizations (Three.js) integrated directly with Django endpoints. ● Maintained legacy microservices and added new Python-based features to the existing ecosystem. ● CSS, SASS, SCSS, SHADCN, TAILWIND",
+      "summary": "● Engineered the core application logic using Django (Python), focusing on ORM performance optimization and reducing N+1 query issues. ● Developed a highly interactive frontend with React and Angular, adhering to Domain-Driven Design (DDD) principles. ● Decoupled heavy backend processes into asynchronous queues using Celery and Redis. ● Implemented interactive 3D model visualizations (Three.js) integrated directly with Django endpoints. ● Maintained legacy microservices and added new Python-based functionalities to the existing ecosystem. ● Stack: CSS, SASS, SCSS, SHADCN, TAILWIND.",
       "highlights": [
-        "Optimized the Django backend for performance and successfully integrated 3D visualization features."
+        "Backend optimization in Django for performance and successful integration of 3D visualizations."
       ]
     },
     {
@@ -77,9 +78,9 @@
       "position": "Fullstack Lead Developer",
       "startDate": "2022-05-01",
       "endDate": "2023-04-30",
-      "summary": "● Led the strategic frontend migration of the main medical webapp from Angular to React and Redux Toolkit (RTK), improving performance while maintaining legacy Angular modules. ● Mentored a team of 2 mid-level developers, enforcing best practices like SOLID principles, KISS, and Clean Architecture. ● Built resilient microservices using NestJS and .NET Core. ● Integrated Stripe for secure payment processing within the medical platform. ● Collaborated on backend data processing using Python and designed schemas in PostgreSQL/AWS Lambda. ● TDD ● CSS, SASS, SCSS, ANGULA MATERIAL, CHAKRA V2",
+      "summary": "● Led the strategic migration of the main medical application frontend from Angular to React and Redux Toolkit (RTK), improving performance while maintaining legacy modules in Angular. ● Mentored a team of 2 mid-level developers, applying best practices such as SOLID principles, KISS, and Clean Architecture. ● Built resilient microservices using NestJS and .NET Core. ● Integrated Stripe for secure payment processing within the medical platform. ● Collaborated on backend data processing using Python and designed schemas in PostgreSQL/AWS Lambda. ● Methodologies: TDD. Technologies: CSS, SASS, SCSS, ANGULAR MATERIAL, CHAKRA V2.",
       "highlights": [
-        "Led the migration to React/RTK, enforced SOLID principles, and integrated Stripe payments."
+        "Leadership in the React/RTK migration, compliance with SOLID principles, and Stripe payment integration."
       ]
     },
     {
@@ -88,9 +89,9 @@
       "url": "https://bambu-mobile.com",
       "startDate": "2020-02-01",
       "endDate": "2022-04-30",
-      "summary": "● Delivered high-impact solutions for enterprise clients including Santander, Office Depot, and the Government of Mexico. ● Integrated complex third-party ecosystems via REST and SOAP APIs, including banking systems and payment gateways. ● Developed new services with Express.js (Node.js) and ASP.NET Core, while maintaining legacy Java Spring apps. ● Deployed on AWS (EC2, S3, Elastic Beanstalk) and utilized Firebase Realtime Database and MongoDB for data storage. ● Implemented Redis caching and engineered mobile apps with Ionic and React Native. ● Using RDS postgres,mysql. microsoft sql server, mongodb, amazon dynamo db , firestore and redis. ● TDD ● CSS, SASS, SCSS, ANGULA MATERIAL, MATERIAL UI",
+      "summary": "● Delivered high-impact solutions for enterprise clients including Santander, Office Depot, and the Government of Mexico. ● Integrated complex third-party ecosystems via REST and SOAP APIs, including banking systems and payment gateways. ● Developed new services with Express.js (Node.js) and ASP.NET Core, while maintaining legacy Java Spring applications. ● Deployed on AWS (EC2, S3, Elastic Beanstalk) and used Firebase Realtime Database and MongoDB for data storage. ● Implemented caching with Redis and engineered mobile applications with Ionic and React Native. ● Database Management: RDS PostgreSQL, MySQL, Microsoft SQL Server, MongoDB, Amazon DynamoDB, Firestore, and Redis. ● Stack: TDD, CSS, SASS, SCSS, ANGULAR MATERIAL, MATERIAL UI.",
       "highlights": [
-        "Delivered critical solutions for major clients (Santander, Gov) integrating REST/SOAP and Firebase/Redis."
+        "Delivery of critical solutions for large clients (Santander, Government) integrating REST/SOAP and Firebase/Redis."
       ]
     },
     {
@@ -99,12 +100,12 @@
       "url": "https://www.bblazar.com/",
       "startDate": "2018-01-01",
       "endDate": null,
-      "summary": "● Developed a high-performance e-commerce solution with Angular Universal (SSR) and Python (Django) backend for specific inventory management modules. ● Built decentralized applications (DApps) utilizing Next.js and Web3.js to interact with Ethereum Smart Contracts. ● Created immersive 3D web experiences using React Three Fiber. ● Implemented custom frontend solutions using React tailored for high SEO performance.",
+      "summary": "● Developed a high-performance e-commerce solution with Angular Universal (SSR) and a Python (Django) backend for specific inventory management modules. ● Built decentralized applications (DApps) using Next.js and Web3.js to interact with Ethereum Smart Contracts. ● Created immersive 3D web experiences using React Three Fiber. ● Implemented custom frontend solutions using React, optimized for high SEO performance.",
       "highlights": [
         "Pioneered Web3 and 3D web implementations integrated with Python automation tools."
       ]
     }
-],
+  ],
   "volunteer": [
     {
       "organization": "Organización",
