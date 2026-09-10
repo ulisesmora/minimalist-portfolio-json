@@ -6,13 +6,11 @@
     "bornPLace": "/born-place.png",
     "visa": "/visa.png",
     "email": "ulisesmora3@gmail.com",
-    "phone": "+34641782836 phone call/whatsapp",
     "url": "",
-    "summary": "Senior Full Stack Architect (+5 years) specializing in designing high-availability distributed systems. Expert in decoupling monoliths into scalable microservices by strictly applying Hexagonal Architecture, DDD, and SOLID principles. \n\nFrontend Authority: I elevate engineering standards in Angular (Security with Guards/Interceptors, NgRx) and React (Composition Patterns, Performance Tuning, Redux/Zustand), prioritizing rendering optimization. \n\nBackend & Data Performance: I architect polyglot solutions in NestJS, .NET, and Django, resolving bottlenecks through advanced strategies such as Caching (Redis), Connection Pooling, and CQRS. I implement real-time communication with Sockets and SQL/NoSQL databases. \n\nCloud & Innovation: Deployment of immutable infrastructure (Docker) on AWS (ECS, EKS) and Azure. Pioneer in integrating AI/LLM capabilities with LangChain into business workflows. I guarantee total quality with Advanced Testing suites (Cypress, Jest, xUnit).",
+    "summary": "Senior Full Stack Architect (+5 años) especializado en el diseño de sistemas distribuidos de alta disponibilidad. Experto en desacoplar monolitos hacia microservicios escalables aplicando estrictamente Arquitectura Hexagonal, DDD y principios SOLID. \n\nFrontend Authority: Elevo el estándar de ingeniería en Angular (Seguridad con Guards/Interceptors, NgRx) y React (Patrones de composición, Performance Tuning, Redux/Zustand), priorizando la optimización de renderizado. \n\nBackend & Data Performance: Arquitecto soluciones políglotas en NestJS, .NET y Django, resolviendo cuellos de botella mediante estrategias avanzadas de Caching (Redis), Connection Pooling y CQRS. Implemento comunicación en tiempo real con Sockets y bases de datos SQL/NoSQL. \n\nCloud & Innovation: Despliegue de infraestructura inmutable (Docker) en AWS (ECS, EKS) y Azure. Pionero en la integración de capacidades de IA/LLM con LangChain en flujos de negocio. Garantizo la calidad total con suites de Testing Avanzado (Cypress, Jest, xUnit).",
     "location": {
-      "address": "España",
-      "postalCode": "28015",
-      "city": "Active Work Permit in Spain (TIE) Madrid",
+      "address": "Es",
+      "city": "Madrid",
       "countryCode": "ES",
       "region": "España"
     },
@@ -47,9 +45,9 @@
       "url": "https://autocom.mx",
       "startDate": "2023-06-01",
       "endDate": "2025-07-01",
-      "summary": "● Architected high-availability backend solutions using ASP.NET Core, serving as the backbone for critical transactional systems. ● Implemented AWS API Gateway to manage traffic and secure microservices endpoints deployed on AWS Fargate (ECS) via Docker containers. ● Established asynchronous communication layers using AWS SQS and SNS to decouple services and ensure data reliability. ● Integrated Python scripts and Lambdas to automate cloud infrastructure and process background data, reducing manual operational load by 40%. ● Developed and maintained internal dashboards using React and Angular. ● Orchestrated a polyglot persistence layer (SQL Server, MongoDB, Redis) and established CI/CD pipelines.",
+      "summary": "● Arquitecté soluciones backend de alta disponibilidad utilizando ASP.NET Core, sirviendo como columna vertebral para sistemas transaccionales críticos. ● Implementé AWS API Gateway para gestionar el tráfico y asegurar los endpoints de microservicios desplegados en AWS Fargate (ECS) mediante contenedores Docker. ● Establecí capas de comunicación asíncrona utilizando AWS SQS y SNS para desacoplar servicios y asegurar la fiabilidad de los datos. ● Integré scripts de Python y Lambdas para automatizar la infraestructura en la nube y procesar datos en segundo plano, reduciendo la carga operativa manual en un 40%. ● Desarrollé y mantuve dashboards internos utilizando React y Angular. ● Orquesté una capa de persistencia políglota (SQL Server, MongoDB, Redis) y establecí pipelines de CI/CD.",
       "highlights": [
-        "Backend modernization with ECS Fargate/Docker and introduction of Python automations for cloud efficiency."
+        "Modernización del backend con ECS Fargate/Docker e introducción de automatizaciones en Python para eficiencia en la nube."
       ]
     },
     {
@@ -57,9 +55,9 @@
       "position": "Backend Lead & Architect (NestJS & AI)",
       "startDate": "2024-01-01",
       "endDate": "2024-11-01",
-      "summary": "● Designed a scalable microservices architecture implementing Apollo Federation 2 with NestJS and GraphQL as a unified API Gateway. ● Engineered a multi-layer LLM pipeline using Python (LangChain) that processes user inputs through distinct stages: initial intent detection, context filtering, and routing to specialized flows, optimizing accuracy and token usage. ● Integrated the Meta API (WhatsApp Business) to orchestrate omnichannel chatbots. ● Implemented Stripe for subscription management. ● Orchestrated infrastructure with Terraform and Docker on AWS ECS Fargate/S3. ● Integrated RabbitMQ for event-driven communication and Redis for caching. ● Stack: CSS, SASS, SCSS, MATERIAL UI, NEXTJS.",
+      "summary": "● Diseñé una arquitectura de microservicios escalable implementando Apollo Federation 2 con NestJS y GraphQL como API Gateway unificado. ● Ingenié un pipeline de LLM multicapa utilizando Python (LangChain) que procesa las entradas del usuario a través de distintas etapas: detección inicial de intención, filtrado de contexto y enrutamiento a flujos especializados, optimizando la precisión y el uso de tokens. ● Integré la API de Meta (WhatsApp Business) para orquestar chatbots omnicanal. ● Implementé Stripe para la gestión de suscripciones. ● Orquesté la infraestructura con Terraform y Docker en AWS ECS Fargate/S3. ● Integré RabbitMQ para comunicación orientada a eventos y Redis para caché. ● Stack: CSS, SASS, SCSS, MATERIAL UI, NEXTJS.",
       "highlights": [
-        "Architecture of a multi-layer LLM ecosystem with NestJS/GraphQL that intelligently filters intents for complex AI flows."
+        "Arquitectura de un ecosistema LLM multicapa con NestJS/GraphQL que filtra inteligentemente las intenciones para flujos de IA complejos."
       ]
     },
     {
@@ -68,9 +66,9 @@
       "url": "https://parts-badger.com",
       "startDate": "2023-05-01",
       "endDate": "2023-12-01",
-      "summary": "● Engineered the core application logic using Django (Python), focusing on ORM performance optimization and reducing N+1 query issues. ● Developed a highly interactive frontend with React and Angular, adhering to Domain-Driven Design (DDD) principles. ● Decoupled heavy backend processes into asynchronous queues using Celery and Redis. ● Implemented interactive 3D model visualizations (Three.js) integrated directly with Django endpoints. ● Maintained legacy microservices and added new Python-based functionalities to the existing ecosystem. ● Stack: CSS, SASS, SCSS, SHADCN, TAILWIND.",
+      "summary": "● Ingenié la lógica central de la aplicación utilizando Django (Python), enfocándome en la optimización del rendimiento del ORM y la reducción de problemas de consultas N+1. ● Desarrollé un frontend altamente interactivo con React y Angular, adhiriéndome a los principios de Diseño Guiado por el Dominio (DDD). ● Desacoplé procesos backend pesados hacia colas asíncronas utilizando Celery y Redis. ● Implementé visualizaciones interactivas de modelos 3D (Three.js) integradas directamente con endpoints de Django. ● Mantuve microservicios legacy y añadí nuevas funcionalidades basadas en Python al ecosistema existente. ● Stack: CSS, SASS, SCSS, SHADCN, TAILWIND.",
       "highlights": [
-        "Backend optimization in Django for performance and successful integration of 3D visualizations."
+        "Optimización del backend en Django para rendimiento e integración exitosa de visualizaciones 3D."
       ]
     },
     {
@@ -78,9 +76,9 @@
       "position": "Fullstack Lead Developer",
       "startDate": "2022-05-01",
       "endDate": "2023-04-30",
-      "summary": "● Led the strategic migration of the main medical application frontend from Angular to React and Redux Toolkit (RTK), improving performance while maintaining legacy modules in Angular. ● Mentored a team of 2 mid-level developers, applying best practices such as SOLID principles, KISS, and Clean Architecture. ● Built resilient microservices using NestJS and .NET Core. ● Integrated Stripe for secure payment processing within the medical platform. ● Collaborated on backend data processing using Python and designed schemas in PostgreSQL/AWS Lambda. ● Methodologies: TDD. Technologies: CSS, SASS, SCSS, ANGULAR MATERIAL, CHAKRA V2.",
+      "summary": "● Lideré la migración estratégica del frontend de la aplicación médica principal de Angular a React y Redux Toolkit (RTK), mejorando el rendimiento mientras se mantenían módulos legacy en Angular. ● Mentoría a un equipo de 2 desarrolladores mid-level, aplicando mejores prácticas como principios SOLID, KISS y Arquitectura Limpia (Clean Architecture). ● Construí microservicios resilientes utilizando NestJS y .NET Core. ● Integré Stripe para el procesamiento seguro de pagos dentro de la plataforma médica. ● Colaboré en el procesamiento de datos backend usando Python y diseñé esquemas en PostgreSQL/AWS Lambda. ● Metodologías: TDD. Tecnologías: CSS, SASS, SCSS, ANGULAR MATERIAL, CHAKRA V2.",
       "highlights": [
-        "Leadership in the React/RTK migration, compliance with SOLID principles, and Stripe payment integration."
+        "Liderazgo en la migración a React/RTK, cumplimiento de principios SOLID e integración de pagos con Stripe."
       ]
     },
     {
@@ -89,9 +87,9 @@
       "url": "https://bambu-mobile.com",
       "startDate": "2020-02-01",
       "endDate": "2022-04-30",
-      "summary": "● Delivered high-impact solutions for enterprise clients including Santander, Office Depot, and the Government of Mexico. ● Integrated complex third-party ecosystems via REST and SOAP APIs, including banking systems and payment gateways. ● Developed new services with Express.js (Node.js) and ASP.NET Core, while maintaining legacy Java Spring applications. ● Deployed on AWS (EC2, S3, Elastic Beanstalk) and used Firebase Realtime Database and MongoDB for data storage. ● Implemented caching with Redis and engineered mobile applications with Ionic and React Native. ● Database Management: RDS PostgreSQL, MySQL, Microsoft SQL Server, MongoDB, Amazon DynamoDB, Firestore, and Redis. ● Stack: TDD, CSS, SASS, SCSS, ANGULAR MATERIAL, MATERIAL UI.",
+      "summary": "● Entregué soluciones de alto impacto para clientes empresariales incluyendo Santander, Office Depot y el Gobierno de México. ● Integré ecosistemas complejos de terceros vía APIs REST y SOAP, incluyendo sistemas bancarios y pasarelas de pago. ● Desarrollé nuevos servicios con Express.js (Node.js) y ASP.NET Core, manteniendo a su vez aplicaciones legacy en Java Spring. ● Despliegue en AWS (EC2, S3, Elastic Beanstalk) y uso de Firebase Realtime Database y MongoDB para almacenamiento de datos. ● Implementé caché con Redis e ingenié aplicaciones móviles con Ionic y React Native. ● Gestión de bases de datos: RDS PostgreSQL, MySQL, Microsoft SQL Server, MongoDB, Amazon DynamoDB, Firestore y Redis. ● Stack: TDD, CSS, SASS, SCSS, ANGULAR MATERIAL, MATERIAL UI.",
       "highlights": [
-        "Delivery of critical solutions for large clients (Santander, Government) integrating REST/SOAP and Firebase/Redis."
+        "Entrega de soluciones críticas para grandes clientes (Santander, Gobierno) integrando REST/SOAP y Firebase/Redis."
       ]
     },
     {
@@ -100,9 +98,9 @@
       "url": "https://www.bblazar.com/",
       "startDate": "2018-01-01",
       "endDate": null,
-      "summary": "● Developed a high-performance e-commerce solution with Angular Universal (SSR) and a Python (Django) backend for specific inventory management modules. ● Built decentralized applications (DApps) using Next.js and Web3.js to interact with Ethereum Smart Contracts. ● Created immersive 3D web experiences using React Three Fiber. ● Implemented custom frontend solutions using React, optimized for high SEO performance.",
+      "summary": "● Desarrollé una solución de comercio electrónico de alto rendimiento con Angular Universal (SSR) y backend en Python (Django) para módulos específicos de gestión de inventario. ● Construí aplicaciones descentralizadas (DApps) utilizando Next.js y Web3.js para interactuar con Smart Contracts de Ethereum. ● Creé experiencias web inmersivas en 3D utilizando React Three Fiber. ● Implementé soluciones frontend personalizadas usando React, optimizadas para un alto rendimiento SEO.",
       "highlights": [
-        "Pioneered Web3 and 3D web implementations integrated with Python automation tools."
+        "Pionero en implementaciones Web3 y web 3D integradas con herramientas de automatización en Python."
       ]
     }
   ],
@@ -114,9 +112,7 @@
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
       "summary": "Descripción…",
-      "highlights": [
-        "Premio 'Voluntario del Mes'"
-      ]
+      "highlights": ["Premio 'Voluntario del Mes'"]
     }
   ],
   "education": [
@@ -160,279 +156,175 @@
     {
       "name": ".Net Asp Net",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Backend",
-        "Framework de Microsoft"
-      ],
+      "keywords": ["Desarrollo Web", "Backend", "Framework de Microsoft"],
       "years": "4+ years"
     },
     {
       "name": "C#",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Backend"
-      ],
+      "keywords": ["Desarrollo Web", "Backend"],
       "years": "4+ years"
     },
     {
       "name": "Angular",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "UI"
-      ],
+      "keywords": ["Desarrollo Web", "Frontend", "UI"],
       "years": "4+ years"
     },
     {
       "name": "HTML",
       "level": "Maestro",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend"
-      ],
+      "keywords": ["Desarrollo Web", "Frontend"],
       "years": "5+ years"
     },
     {
       "name": "CSS",
       "level": "Maestro",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Diseño Responsive"
-      ],
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"],
       "years": "5+ years"
     },
     {
       "name": "JavaScript",
       "level": "Maestro",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ],
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"],
       "years": "5+ years"
     },
     {
       "name": "TypeScript",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend"
-      ],
+      "keywords": ["Desarrollo Web", "Frontend", "Backend"],
       "years": "5+ years"
     },
     {
       "name": "React",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "UI"
-      ],
+      "keywords": ["Desarrollo Web", "Frontend", "UI"],
       "years": "4+ years"
     },
     {
       "name": "Next.js",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Framework de React",
-        "SSR"
-      ],
+      "keywords": ["Desarrollo Web", "Frontend", "Framework de React", "SSR"],
       "years": "3+ years"
     },
     {
       "name": "React-Native",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Móvil",
-        "Frontend",
-        "Framework"
-      ],
+      "keywords": ["Desarrollo Móvil", "Frontend", "Framework"],
       "years": "1+ years"
     },
     {
       "name": "Ionic",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Móvil",
-        "Frontend",
-        "Framework"
-      ],
+      "keywords": ["Desarrollo Móvil", "Frontend", "Framework"],
       "years": "1+ years"
     },
     {
       "name": "Node",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Backend",
-        "JavaScript",
-        "Servidor"
-      ],
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"],
       "years": "5+ years"
     },
     {
       "name": "Nestjs",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Backend",
-        "Framework de JavaScript"
-      ],
+      "keywords": ["Desarrollo Backend", "Framework de JavaScript"],
       "years": "4+ years"
     },
     {
       "name": "Express",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Backend",
-        "Framework de JavaScript"
-      ],
+      "keywords": ["Desarrollo Backend", "Framework de JavaScript"],
       "years": "4+ years"
     },
     {
       "name": "AWS",
       "level": "Avanzado",
-      "keywords": [
-        "Cloud",
-        "Infraestructura"
-      ],
+      "keywords": ["Cloud", "Infraestructura"],
       "years": "4+ years"
     },
     {
       "name": "Docker",
       "level": "Avanzado",
-      "keywords": [
-        "Contenedores",
-        "Desarrollo"
-      ],
+      "keywords": ["Contenedores", "Desarrollo"],
       "years": "4+ years"
     },
     {
       "name": "Terraform",
       "level": "beginenr",
-      "keywords": [
-        "Infraestructura como Código",
-        "Cloud"
-      ],
+      "keywords": ["Infraestructura como Código", "Cloud"],
       "years": "1 year"
     },
     {
       "name": "Postgres",
       "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos",
-        "SQL",
-        "Backend"
-      ],
+      "keywords": ["Bases de Datos", "SQL", "Backend"],
       "years": "5+ years"
     },
     {
       "name": "Mongo DB",
       "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos",
-        "NoSQL"
-      ],
+      "keywords": ["Bases de Datos", "NoSQL"],
       "years": "3+ years"
     },
     {
       "name": "Redis",
       "level": "Avanzado",
-      "keywords": [
-        "Caché",
-        "Base de Datos"
-      ],
+      "keywords": ["Caché", "Base de Datos"],
       "years": "3+ years"
     },
     {
       "name": "Rabbitmq",
       "level": "Avanzado",
-      "keywords": [
-        "Mensajería",
-        "Microservicios"
-      ],
+      "keywords": ["Mensajería", "Microservicios"],
       "years": "2+ years"
     },
     {
       "name": "Git",
       "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración"
-      ],
+      "keywords": ["Control de Versiones", "Colaboración"],
       "years": "5+ years"
     },
     {
       "name": "GitHub",
       "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Git"
-      ],
+      "keywords": ["Control de Versiones", "Colaboración", "Git"],
       "years": "5+ years"
     },
     {
       "name": "Python",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Backend",
-        "Lenguaje de Programación"
-      ],
+      "keywords": ["Desarrollo Web", "Backend", "Lenguaje de Programación"],
       "years": "3+ years"
     },
     {
       "name": "Django",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Framework de Python"
-      ],
+      "keywords": ["Desarrollo Web", "Framework de Python"],
       "years": "3+ years"
     },
     {
       "name": "MySQL",
       "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos",
-        "SQL",
-        "Almacenamiento de Datos"
-      ],
+      "keywords": ["Bases de Datos", "SQL", "Almacenamiento de Datos"],
       "years": "5+ years"
     },
     {
       "name": "SQLServer",
       "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos",
-        "SQL"
-      ],
+      "keywords": ["Bases de Datos", "SQL"],
       "years": "4+ years"
     },
     {
       "name": "Azure",
       "level": "Avanzado",
-      "keywords": [
-        "Cloud",
-        "Infraestructura"
-      ],
+      "keywords": ["Cloud", "Infraestructura"],
       "years": "1+ years"
     },
     {
       "name": "GC",
       "level": "Avanzado",
-      "keywords": [
-        "Cloud",
-        "Infraestructura"
-      ],
+      "keywords": ["Cloud", "Infraestructura"],
       "years": "1+ years"
     }
   ],
@@ -449,10 +341,7 @@
   "interests": [
     {
       "name": "Vida Silvestre",
-      "keywords": [
-        "Hurones",
-        "Unicornios"
-      ]
+      "keywords": ["Hurones", "Unicornios"]
     }
   ],
   "references": [
@@ -473,9 +362,7 @@
       "name": "bblazar",
       "isActive": true,
       "description": "Mi propia página en progreso",
-      "highlights": [
-        "JavaScript & TypeScript"
-      ],
+      "highlights": ["JavaScript & TypeScript"],
       "url": "https://bblazar.com"
     },
     {
@@ -489,9 +376,7 @@
       "name": "RL",
       "isActive": true,
       "description": "Plataforma RL",
-      "highlights": [
-        "10k visitas al mes"
-      ],
+      "highlights": ["10k visitas al mes"],
       "url": "https://rayitodeluna.mx/"
     }
   ]

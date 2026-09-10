@@ -18,7 +18,7 @@ interface Basics {
   label: string
   image: string
   email: string
-  phone: string
+  phone?: string
   url: string
   summary: string
   location: Location
@@ -27,7 +27,7 @@ interface Basics {
 
 interface Location {
   address: string
-  postalCode: string
+  postalCode?: string
   city: string
   countryCode: string
   region: string

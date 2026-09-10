@@ -6,12 +6,10 @@
     "bornPLace": "/born-place.png",
     "visa": "/visa.png",
     "email": "ulisesmora3@gmail.com",
-    "phone": "+34 526715393",
     "url": "",
     "summary": "+5 years de experiencia trabajando con TS/JS, React, Angular, Nestjs/Express, ASP NET, Django trabajando con patrones de diseño SOLID y Arquitecturas Limpias como DDD en los últimos dos years. Experiencia trabajando en microservicios y funciones lambda. Trabajo con React Native e Ionic para aplicaciones móviles. Experiencia con nubes como AWS, Azure, Google Cloud y Terraform. Al final, me gusta el liderazgo y entender el propósito de los otros departamentos en función del producto.",
     "location": {
       "address": "Pintor rosales, Argüelles",
-      "postalCode": "",
       "city": "Playa del carmen",
       "countryCode": "MX",
       "region": "México"

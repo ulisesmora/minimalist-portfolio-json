@@ -2,7 +2,6 @@
 import { basics } from "@cv"
 import Section from "@/components/Section.astro"
 import Mail from "@/icons/Mail.astro"
-import Phone from "@/icons/Phone.astro"
 import X from "@/icons/X.astro"
 import LinkedIn from "@/icons/LinkedIn.astro"
 import GitHub from "@/icons/GitHub.astro"
@@ -11,8 +10,8 @@ import Visa from "@/icons/visa.astro"
 import BornPlace from "@/icons/bornPlace.astro"
 import type { SocialIcon } from "@/types"
 
-const { name, label, image, location, profiles, phone, email, bornPLace, visa } = basics
-const { city, region, address, postalCode } = location
+const { name, label, image, location, profiles, email, bornPLace, visa } = basics
+const { city, region, address } = location
 
 const SOCIAL_ICONS: SocialIcon = {
   GitHub,
@@ -23,7 +22,7 @@ const SOCIAL_ICONS: SocialIcon = {
 const linkedInfo = profiles.find(({ network }) => network === "LinkedIn")
 const linkedUrl = linkedInfo?.url
 
-const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
+const printInfo = [email, linkedUrl].filter(Boolean).join(" • ")
 ---
 
 <Section>
@@ -33,7 +32,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
       <h2>{label}</h2>
       <span>
         <WorldMap />
-        {city}, {region} , postal Code: {postalCode} 
+        {city}, {region}
       </span>
       
        </span>
@@ -51,18 +50,6 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
               rel="noopener noreferrer"
             >
               <Mail />
-            </a>
-          )
-        }
-        {
-          phone && (
-            <a
-              href={`tel:${phone}`}
-              title={`call ${name} to  ${phone}`}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <Phone />
             </a>
           )
         }
